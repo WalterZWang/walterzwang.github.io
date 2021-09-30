@@ -40,8 +40,8 @@ Selected Publications
   
 Selected Awards
 ======
-* Second Prize of 2019 Chinese State Science and Technology Prize (2019年国家科学技术进步奖二等奖), Award Number: 2019-J-22101-2-01-R09
-* First Prize of 2018 Beijing Science and Technology Prize (2018年北京市科学技术奖一等奖)
+* Second Prize, Chinese State Science and Technology Prize, 2020 (2019年国家科学技术进步奖二等奖), Award Number: 2019-J-22101-2-01-R09
+* First Prize, Beijing Science and Technology Prize, 2018 (2018年北京市科学技术奖一等奖)
 * Schwarzaman Scholarship, 2016
 * China National Scholarship, Chinese Government, 2009, 2010, 2012 (top 0.2%)
 * Outstanding Graduates, Tsinghua University, 2011 (top 2% of Tsinghua graduating students)
