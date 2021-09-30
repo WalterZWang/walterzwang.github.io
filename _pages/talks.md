@@ -19,10 +19,8 @@ author_profile: true
 1. Data-driven Smart Building. *The Hong Kong Polytechnic University*, May 2021.
 1. Data-driven Smart Building. *The Hong Kong University of Science and Technology*, May 2021.
 1. Data-driven Smart Building. *Tsinghua Shenzhen International Graduate School*, Mar. 2021.
-1. [Application of Generative Adversarial Networks (GANs) in Smart Buildings](http://walterzwang.github.io/files/talks/GAN2020.pdf). 
-*Syracuse University*, Oct. 2020
-1. AlphaBuilding: Reinforcement Learning for building control. *University of California Berkeley*,
-Feb. 2020
+1. [Application of Generative Adversarial Networks (GANs) in Smart Buildings](http://walterzwang.github.io/files/talks/GAN2020.pdf). *Syracuse University*, Oct. 2020
+1. AlphaBuilding: Reinforcement Learning for building control. *University of California Berkeley*, Feb. 2020
 1. Advanced Building Control. *Tsinghua University*, Feb. 2020
 
 ## Conference Presentations
