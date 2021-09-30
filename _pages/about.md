@@ -17,6 +17,7 @@ redirect_from:
 
 Recent news
 ======
+- I accepted the offer to join *The Hong Kong University of Science and Technology* as Assistant Professor (Jul, 2021)
 - I gave a talk on Data-driven Smart Building at *The Hong Kong Polytechnic University*. (May, 2021)
 - I gave a talk on Data-driven Smart Building at *The Hong Kong University of Science and Technology*. (Apr, 2021)
 - I gave a talk on Data-driven Smart Building at *Tsinghua Shenzhen International Graduate School*. (Mar, 2021)
