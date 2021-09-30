@@ -15,8 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-- [Google Scholar](https://scholar.google.com/citations?user=xN_oFzsAAAAJ)
-- <sup>\#</sup>: Contributed equally; <sup>\*</sup>: Corresponding author
+[Google Scholar](https://scholar.google.com/citations?user=xN_oFzsAAAAJ)
+<sup>\#</sup>: Contributed equally; <sup>\*</sup>: Corresponding author
 
 ## Journal Papers
 1.	**Wang, Z.**, Chen, B., Li, H. and Hong, T., 2021. AlphaBuilding ResCommunity: A multi-agent virtual testbed for community-level load coordination. Advances in Applied Energy, 4, p.100061.
