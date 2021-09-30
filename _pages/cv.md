@@ -13,11 +13,11 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Building Science, Tsinghua University, 2017
+* M.Sci. in Public Policy, [Schwarzman College Tsinghua University](https://www.schwarzmanscholars.org/), 2017
+* M.Phil. in Energy Technology, University of Cambridge, 2015
 * B.Eng. in Building Science, Tsinghua University, 2011
 * B.Sci. in Economics, Tsinghua University, 2011
-* M.Phil. in Energy Technology, University of Cambridge, 2015
-* M.Sci. in Public Policy, [Schwarzman College Tsinghua University](https://www.schwarzmanscholars.org/), 2017
-* Ph.D. in Building Science, Tsinghua University, 2017
 
 Work experience
 ======
