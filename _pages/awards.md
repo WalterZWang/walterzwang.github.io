@@ -9,6 +9,7 @@ author_profile: true
 - First Prize, Beijing Science and Technology Prize, 2018 (2018年北京市科学技术奖一等奖)
 - The Hong Kong Polytechnic University Strategic Hiring Professorship, 2020 (declined)
 - Provincial Outstanding Graduates, Beijing, 2017. (top 5% of graduating students)
+- Schwarzaman Scholarship, 2016
 - Boeing Scholarship, Boeing Company, 2015
 - Wing Yip Scholarship, University of Cambridge, 2013 (3 awardees per year)
 - China National Scholarship, Chinese Government, 2012 (top 0.2%)
