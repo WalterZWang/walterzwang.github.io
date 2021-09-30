@@ -17,12 +17,12 @@ redirect_from:
 
 Recent news
 ======
-- I gave a talk on **Data-driven Smart Building** at *The Hong Kong Polytechnic University*. (May, 2021)
-- I gave a talk on **Data-driven Smart Building** at *The Hong Kong University of Science and Technology*. (Apr, 2021)
-- I gave a talk on **Data-driven Smart Building** at *Tsinghua Shenzhen International Graduate School*. (Mar, 2021)
-- I was invited to give a talk on **Application of Generative Adversarial Networks (GANs) in Smart Buildings** at *Syracuse University* (Oct, 2020)
-- I presented **Improving Building Performance Simulation with Detailed Occupant Movement and Behavior Modeling** at *Building Performance Analysis Conference and SimBuild* (Aug, 2020)
-- I presented **Machine Learning for Anomaly Detection in Subjective Thermal Comfort Votes** at *ASHRAE Winter's Conference* (Feb, 2020)
-- I presented **Inferring Occupant Counts from Wi-Fi Data** at *ASHRAE Annual Conference* (Jul, 2019)
+- I gave a talk on Data-driven Smart Building at *The Hong Kong Polytechnic University*. (May, 2021)
+- I gave a talk on Data-driven Smart Building at *The Hong Kong University of Science and Technology*. (Apr, 2021)
+- I gave a talk on Data-driven Smart Building at *Tsinghua Shenzhen International Graduate School*. (Mar, 2021)
+- I was invited to give a talk on Application of Generative Adversarial Networks (GANs) in Smart Buildings at *Syracuse University* (Oct, 2020)
+- I presented Improving Building Performance Simulation with Detailed Occupant Movement and Behavior Modeling at *Building Performance Analysis Conference and SimBuild* (Aug, 2020)
+- I presented Machine Learning for Anomaly Detection in Subjective Thermal Comfort Votes at *ASHRAE Winter's Conference* (Feb, 2020)
+- I presented Inferring Occupant Counts from Wi-Fi Data at *ASHRAE Annual Conference* (Jul, 2019)
 - I was invited to give a speech on the [Seventh-Round High-level Consultation on U.S.-China People to People Exchange](https://www.tsinghua.edu.cn/info/1756/71634.htm). This event was chaired by Chinese Vice Premier Yandong Liu and U.S. Secretary of State John Kerry, Zhe was the ONLY representative of Chinese young scholar (Jun, 2016)
 - I was selected as a [Schwarzman Scholar](http://en.sc.tsinghua.edu.cn/) and enrolled into the [Inaugural Class](https://www.nytimes.com/2016/01/11/business/dealbook/schwarzman-scholars-announces-inaugural-class-to-study-in-china.html) (December, 2015)
