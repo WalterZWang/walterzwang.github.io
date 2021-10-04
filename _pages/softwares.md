@@ -20,9 +20,9 @@ My role: Developer of the [*Occupants*](https://github.com/lbl-srg/modelica-buil
 
 AlphaBuilding Residential Community is a multi-agent OpenAI Gym Environment for Thermally Controlled Loads (TCLs) Coordination.
 
-My role: leading developer
-
 <img src="../images/ab_rescommunity.png" width="900">
+
+My role: leading developer
 
 A [paper](https://doi.org/10.1016/j.adapen.2021.100061) to introduce AlphaBuilding Residential Community and how it can be used
 
