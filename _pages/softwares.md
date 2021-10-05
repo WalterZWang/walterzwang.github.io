@@ -27,7 +27,7 @@ My role: Leading developer
 A [paper](https://doi.org/10.1016/j.adapen.2021.100061) to introduce AlphaBuilding Residential Community and how it can be used
 
 
-## AlphaBuilding Residential Community
+## AlphaBuilding Hydrogen
 
 <img src="../images/github.png" width="40"> [source](https://github.com/WalterZWang/AlphaHydrogen)
 
