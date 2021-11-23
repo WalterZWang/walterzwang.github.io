@@ -50,6 +50,7 @@ author_profile: true
 1.	Li, H., **Wang, Z.** and Hong, T., 2021. A synthetic building operation dataset. Scientific data, 8(1), pp.1-13.
 1.	Li, H., **Wang, Z.**, Hong, T. and Piette, M.A., 2021. Energy Flexibility of Residential Buildings: A Systematic Review of Characterization and Quantification Methods and Applications. Advances in Applied Energy, p.100054.
 1.	Li, H., **Wang, Z.**, Hong, T., Parker, A. and Neukomm, M., 2021. Characterizing patterns and variability of building electric load profiles in time and frequency domains. Applied Energy, 291, p.116721.
+1. Wang, M., **Wang, Z.**, Geng, Y. and Lin, B., 2021. Interpreting the neural network model for HVAC system energy data mining. Building and Environment, p.108449.
 1.	Li, H., **Wang, Z.** and Hong, T., 2021. Occupant-Centric key performance indicators to inform building design and operations. Journal of Building Performance Simulation, pp.1-29.
 1.	Hong, T., **Wang, Z.**, Luo, X. and Zhang, W., 2020. State-of-the-art on research and applications of machine learning in the building life cycle. Energy and Buildings, p.109831.
 1.	Jiang, Y., **Wang, Z.**, Lin, B. and Mumovic, D., 2020. Development of a health data-driven model for a thermal comfort study. Building and Environment, p.106874.

@@ -17,6 +17,8 @@ redirect_from:
 
 Recent news
 ======
+- I accepted the invitation to join the editorial board of *Frontiers in Built Environment* as Associate Editor (Nov, 2021)
+- I gave a talk on Application of Generative Adversarial Networks (GANs) in Smart Buildings at *Syracuse University* (Nov, 2021)
 - I accepted the offer to join *The Hong Kong University of Science and Technology* as Assistant Professor (Jul, 2021)
 - I gave a talk on Data-driven Smart Building at *The Hong Kong Polytechnic University*. (May, 2021)
 - I gave a talk on Data-driven Smart Building at *The Hong Kong University of Science and Technology*. (May, 2021)

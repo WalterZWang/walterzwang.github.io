@@ -16,6 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 ## Invited Talks
+1. Application of Generative Adversarial Networks (GANs) in Smart Buildings. *Syracuse University*, Nov. 2021
 1. Data-driven Smart Building. *The Hong Kong Polytechnic University*, May 2021.
 1. Data-driven Smart Building. *The Hong Kong University of Science and Technology*, May 2021.
 1. Data-driven Smart Building. *Tsinghua Shenzhen International Graduate School*, Mar. 2021.

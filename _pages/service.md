@@ -6,8 +6,9 @@ author_profile: true
 ---
 
 ## Journal Editor
-1. [Building Simulation](https://www.springer.com/journal/12273)
-1. Building Energy Efficiency (建筑节能)
+1. *Associate Editor* of [Frontiers in Built Environment](https://www.frontiersin.org/journals/built-environment)
+1. *Subject Editor* of [Building Simulation](https://www.springer.com/journal/12273)
+1. *Editor* of Building Energy Efficiency (建筑节能)
 
 
 ## Grant Proposal Reviewer
