@@ -17,6 +17,7 @@ redirect_from:
 
 Recent news
 ======
+- I accepted the invitation to join [the George H. W. Bush Foundation for U.S.-China Relations](https://bushchinafoundation.org/) as [Fellow](http://walterzwang.github.io/files/BushFoundationFellow.pdf) (Nov, 2021)
 - I accepted the invitation to join the editorial board of *Frontiers in Built Environment* as Associate Editor (Nov, 2021)
 - I gave a talk on Application of Generative Adversarial Networks (GANs) in Smart Buildings at *Syracuse University* (Nov, 2021)
 - I accepted the offer to join *The Hong Kong University of Science and Technology* as Assistant Professor (Jul, 2021)
