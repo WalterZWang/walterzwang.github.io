@@ -1,23 +1,20 @@
 ---
-title: "Teaching experience 2"
+title: "Advanced HVAC System"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/2022-spring-teaching-2
+venue: "Hong Kong University of Science and Technology"
+date: 2022-02-04
+location: "Hong Kong SAR"
 ---
 
-Energy system is an important part of smart low-carbon buildings and cities. Energy system modelling is the prerequisite for load prediction, energy efficiency design and optimization, which becomes increasingly important under the context of climate change and sustainable development. 
-This course provides theory and hands-on experience about energy system modelling for buildings and cities. Lectures will cover physical concepts, mathematical laws, and software tools for city and building energy system modelling. On the theory side, this course will cover heat transfer basics and building thermal dynamics. On the practical side, this course will introduce the equation-based programming language Modelica. On the scale side, this course will cover building-scale energy system (HVAC) and the city-scale energy system (district heating and cooling system).
-This course has four modules as shown below: review of thermal fundamentals, math and programming of dynamic systems, major components of HVAC system, and energy system modeling at different scales.
+This course provides the theoretical and practical knowledge of modern HVAC systems.
+
+## Background
+HVAC system is an important part of modern buildings. People spends 85% of time indoors. Providing a comfortable, healthy, and productive indoor environment is critical to the well-being of occupants. Additionally, air conditioning alone accounts for 16% of total energy usage of Hong Kong in 2019. Understanding how HVAC system works and the major components of modern HVAC system is critical and required for engineers of intelligent building industry.
+
+## Contents
+This course provides the theoretical and practical knowledge of modern HVAC systems. It has three modules as shown below: review of fundamentals of how HVAC system works, major components of HVAC system, and advanced topics about intelligent HVAC system. 
 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+[Download the Syllabus](http://walterzwang.github.io/files/Syllabus of IBTM 5150 – Advanced HVAC Systems.pdf)
