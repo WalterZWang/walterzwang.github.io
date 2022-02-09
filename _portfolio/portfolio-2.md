@@ -1,6 +1,6 @@
 ---
 title: "Thermal Management for the Autonomous Cruise UVC Disinfection and Microclimate Air-conditioning Robot"
-excerpt: "Co-PI, this project is to sense and control the indoor thermal environment to create a highly efficient disinfection environment for the UVC LED robot, and to manage its heat dissapation<br/><img src='/images/portfolios/FoshanHKUST_robotics.png'> width='600'>"
+excerpt: "Co-PI, this project is to sense and control the indoor thermal environment to create a highly efficient disinfection environment for the UVC LED robot, and to manage its heat dissapation<br/><img src='/images/portfolios/FoshanHKUST_robotics.png' width='600'>"
 collection: portfolio
 ---
 
