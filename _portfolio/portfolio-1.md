@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Deep Reinforcement Learning for Building Control"
+excerpt: "Co-PI, this project is to explore the application of Deep Reinforcement Learning for Building Control<br/><img src='/images/portfolios/LDRD_DRL.png'> width='600'"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Funding agency
+Lawrence Berkeley National Laboratory Directed Research and Development 
+
+## Project introduction
+Advanced building control is needed on our way to the low-carbon economy when the building energy system becomes increasingly complicated (e.g. HVAC, energy storage, electrical vehicle, etc.) and building-grid interaction is needed. The rule-based setpoint-tracking building control cannot reospond to the grid signal efficiently, while Model Predictive Control requires a model which is labor and expertise demanding to develop. Deep Reinforcement Learning, as a model-free approach, has demonstrated its potential for superior dynamic decision making in many tasks, such as gaming and robotics. This project is to explore the application of Deep Reinforcement Learning for building control. The target building is a multi-usage building (office and data center) located in Berkeley, California.
