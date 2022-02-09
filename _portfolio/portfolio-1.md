@@ -1,6 +1,6 @@
 ---
 title: "Deep Reinforcement Learning for Building Control"
-excerpt: "Co-PI, this project is to explore the application of Deep Reinforcement Learning for Building Control<br/><img src='/images/portfolios/LDRD_DRL.png'> width='600'"
+excerpt: "Co-PI, this project is to explore the application of Deep Reinforcement Learning for Building Control<br/><img src='/images/portfolios/LDRD_DRL.png' width='600'>"
 collection: portfolio
 ---
 
