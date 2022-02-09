@@ -17,14 +17,16 @@ redirect_from:
 
 Recent news
 ======
+- I gave a guest lecture on Reinforcement Learning for Smart Building Control at *University College London*. (Feb, 2022)
 - I accepted the invitation to join [the George H. W. Bush Foundation for U.S.-China Relations](https://bushchinafoundation.org/) as [Fellow](http://walterzwang.github.io/files/BushFoundationFellow.pdf) (Nov, 2021)
 - I accepted the invitation to join the editorial board of *Frontiers in Built Environment* as Associate Editor (Nov, 2021)
-- I gave a talk on Application of Generative Adversarial Networks (GANs) in Smart Buildings at *Syracuse University* (Nov, 2021)
+- I gave a guest lecture on Application of Generative Adversarial Networks (GANs) in Smart Buildings at *Syracuse University* (Nov, 2021)
 - I accepted the offer to join *The Hong Kong University of Science and Technology* as Assistant Professor (Jul, 2021)
 - I gave a talk on Data-driven Smart Building at *The Hong Kong Polytechnic University*. (May, 2021)
 - I gave a talk on Data-driven Smart Building at *The Hong Kong University of Science and Technology*. (May, 2021)
 - I gave a talk on Data-driven Smart Building at *Tsinghua Shenzhen International Graduate School*. (Mar, 2021)
-- I gave a talk on Application of Generative Adversarial Networks (GANs) in Smart Buildings at *Syracuse University* (Oct, 2020)
+- I accepted the invitation to join the editorial board of *Building Simulation* as Subject Editor (Jan, 2021)
+- I gave a guest lecture on Application of Generative Adversarial Networks (GANs) in Smart Buildings at *Syracuse University* (Oct, 2020)
 - I presented Improving Building Performance Simulation with Detailed Occupant Movement and Behavior Modeling at *Building Performance Analysis Conference and SimBuild* (Aug, 2020)
 - I presented Machine Learning for Anomaly Detection in Subjective Thermal Comfort Votes at *ASHRAE Winter's Conference* (Feb, 2020)
 - I presented Inferring Occupant Counts from Wi-Fi Data at *ASHRAE Annual Conference* (Jul, 2019)

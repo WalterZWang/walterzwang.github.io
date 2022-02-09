@@ -10,7 +10,6 @@ author_profile: true
 1. *Subject Editor* of [Building Simulation](https://www.springer.com/journal/12273)
 1. *Editor* of Building Energy Efficiency (建筑节能)
 
-
 ## Grant Proposal Reviewer
 1. [The Dunhill Medical Trust](https://dunhillmedical.org.uk/), UK
 
@@ -36,3 +35,7 @@ author_profile: true
 1. Journal of Asian Architecture and Building Engineering
 1. Journal of the Taiwan Institute of Chemical Engineer
 1. Sustainable Cities and Society
+1. Engineering
+
+## Others
+1. *Fellow* of [the George H. W. Bush Foundation for U.S.-China Relations](https://bushchinafoundation.org/)
