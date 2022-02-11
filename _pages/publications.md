@@ -46,6 +46,7 @@ author_profile: true
 1.	Wang, J.<sup>\#</sup>, **Wang, Z.<sup>\*,\#</sup>**, de Dear, R., Luo, M., Ghahramani, A. and Lin, B., 2018. The uncertainty of subjective thermal comfort measurement. Energy and Buildings, 181, pp.38-49.
 1.	Liu, Y.<sup>\#</sup>, **Wang, Z.<sup>\#</sup>**, Lin, B., Hong, J. and Zhu, Y., 2018. Occupant satisfaction in Three-Star-certified office buildings based on comparative study using LEED and BREEAM. Building and Environment, 132, pp.1-10.
 1.	Touzani, S.<sup>\#</sup>, Prakash, A.K.<sup>\#</sup>, **Wang, Z.<sup>\#</sup>**, Agarwal, S., Pritoni, M., Kiran, M., Brown, R. and Granderson, J., 2021. Controlling distributed energy resources via deep reinforcement learning for load flexibility and energy efficiency. Applied Energy, 304, p.117733.
+1. Pinto, G., **Wang, Z.**, Roy, A., Hong, T. and Capozzoli, A., 2022. Transfer learning for smart buildings: A critical review of algorithms, applications, and future perspectives. Advances in Applied Energy, p.100084.
 1.	Luo, M., **Wang, Z.**, Ke, K., Cao, B., Zhai, Y. and Zhou, X., 2018. Human metabolic rate and thermal comfort in buildings: The problem and challenge. Building and Environment, 131, pp. 44-52
 1.	Li, H., **Wang, Z.** and Hong, T., 2021. A synthetic building operation dataset. Scientific data, 8(1), pp.1-13.
 1.	Li, H., **Wang, Z.**, Hong, T. and Piette, M.A., 2021. Energy Flexibility of Residential Buildings: A Systematic Review of Characterization and Quantification Methods and Applications. Advances in Applied Energy, p.100054.
@@ -71,6 +72,7 @@ author_profile: true
 1.	Wang, J., Hua, J., Fu, L., **Wang, Z.** and Zhang, S., 2019. A theoretical fundamental investigation on boilers equipped with vapor-pump system for Flue-Gas Heat and Moisture Recovery. Energy, 171, pp.956-970.
 1.	Luo, M., Ke, Z., Ji, W., **Wang, Z.**, Cao, B., Zhou, X. and Zhu, Y., 2019. The time-scale of thermal comfort adaptation in heated and unheated buildings. Building and Environment, 151, pp.175-186.
 1.	Geng, Y., Yu, J., Lin, B., **Wang, Z.** and Huang, Y., 2017. Impact of individual IEQ factors on passengers' overall satisfaction in Chinese airport terminals. Building and Environment, 112, pp.241-249.
+1. He, Y., Zhou, Y., Yuan, J., Liu, Z., **Wang, Z.** and Zhang, G., 2021. Transformation towards a carbon-neutral residential community with hydrogen economy and advanced energy management strategies. Energy Conversion and Management, 249, p.114834.
 1.	Chen, C.F., De Simone, M., Yilmaz, S., Xu, X., **Wang, Z.**, Hong, T. and Pan, Y., 2021. Intersecting heuristic adaptive strategies, building design and energy saving intentions when facing discomfort environment: A cross-country analysis. Building and Environment, 204, p.108129.
 1.	Li, Z., Lin, B., Zheng, S., Liu, Y., **Wang, Z.** and Dai, J., 2020, August. A review of operational energy consumption calculation method for urban buildings. Building Simulation, Vol. 13, No. 4, pp. 739-751
 1.	Hong, T., Macumber, D., Li, H., Fleming, K. and **Wang, Z.**, 2020, June. Generation and representation of synthetic smart meter data. Building Simulation, Vol. 13, No. 4, pp. 1205–1220  
