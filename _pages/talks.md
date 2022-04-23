@@ -16,8 +16,8 @@ author_profile: true
 {% endfor %} -->
 
 ## Invited Talks
-1. [Reinforcement Learning for Smart Building Control]((http://walterzwang.github.io/files/talks/RLforBuildingControl_2022.pdf)). *University College London*, Feb. 2022
-1. [Application of Generative Adversarial Networks (GANs) in Smart Buildings]((http://walterzwang.github.io/files/talks/GAN2020.pdf)). *Syracuse University*, Nov. 2021
+1. [Reinforcement Learning for Smart Building Control](http://walterzwang.github.io/files/talks/RLforBuildingControl_2022.pdf). *University College London*, Feb. 2022
+1. [Application of Generative Adversarial Networks (GANs) in Smart Buildings](http://walterzwang.github.io/files/talks/GAN2021.pdf). *Syracuse University*, Nov. 2021
 1. Data-driven Smart Building. *The Hong Kong Polytechnic University*, May 2021.
 1. Data-driven Smart Building. *The Hong Kong University of Science and Technology*, May 2021.
 1. Data-driven Smart Building. *Tsinghua Shenzhen International Graduate School*, Mar. 2021.
