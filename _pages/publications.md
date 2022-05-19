@@ -41,6 +41,7 @@ author_profile: true
 1.	**Wang, Z.**, Zhao, H., Lin, B., Zhu, Y., Ouyang, Q. and Yu, J., 2015. Investigation of indoor environment quality of Chinese large-hub airport terminal buildings through longitudinal field measurement and subjective survey. Building and Environment, 94, pp.593-605.
 1.	**Wang, Z.**, de Dear, R., Lin, B., Zhu, Y. and Ouyang, Q., 2015. Rational selection of heating temperature set points for China's hot summer–Cold winter climatic region. Building and Environment, 93, pp.63-70.
 1.	**Wang, Z.**, Lin, B. and Zhu, Y., 2015. Modeling and measurement study on an intermittent heating system of a residence in Cambridgeshire. Building and Environment, 92, pp.380-386.
+1.  Blum, D., **Wang, Z.<sup>\*</sup>**, Weyandt, C., Kim, D., Wetter, M., Hong, T. and Piette, M.A., 2022. Field demonstration and implementation analysis of model predictive control in an office HVAC system. Applied Energy, 318, p.119104.
 1.	Liu, S.<sup>\*,\#</sup>, **Wang, Z.<sup>\*,\#</sup>**, Schiavon, S., He, Y., Luo, M., Zhang, H. and Arens, E., 2020. Predicted percentage dissatisfied with vertical temperature gradient. Energy and Buildings, p.110085.
 1.	Wang, J.<sup>\#</sup>, **Wang, Z.<sup>\#</sup>**, Zhou, D. and Sun, K., 2019. Key issues and novel optimization approaches of industrial waste heat recovery in district heating systems. Energy, p.116005.
 1.	Wang, J.<sup>\#</sup>, **Wang, Z.<sup>\*,\#</sup>**, de Dear, R., Luo, M., Ghahramani, A. and Lin, B., 2018. The uncertainty of subjective thermal comfort measurement. Energy and Buildings, 181, pp.38-49.
@@ -60,6 +61,7 @@ author_profile: true
 1.	Luo, M., **Wang, Z.**, Brager, G., Cao, B. and Zhu, Y., 2018. Indoor climate experience, migration, and thermal comfort expectation in buildings. Building and Environment, 141, pp. 262-272
 1.	Lin, B., **Wang, Z.**, Sun, H., Zhu, Y. and Ouyang, Q., 2016. Evaluation and comparison of thermal comfort of convective and radiant heating terminals in office buildings. Building and Environment, 106, pp.91-102.
 1.	Lin, B., **Wang, Z.**, Liu, Y., Zhu, Y. and Ouyang, Q., 2016. Investigation of winter indoor thermal environment and heating demand of urban residential buildings in China's hot summer–Cold winter climate region. Building and Environment, 101, pp.9-18.
+1.  Su, Y., Cheng, H., **Wang, Z.** and Wang, L., 2022. Impacts of the COVID-19 lockdown on building energy consumption and indoor environment: A case study in Dalian, China. Energy and Buildings, p.112055.
 1.	Guo, X., Lee, K., **Wang, Z.** and Liu, S., 2021. Occupants’ satisfaction with LEED-and non-LEED-certified apartments using social media data. Building and Environment, p.108288.
 1.	He, Y., Zhou, Y., **Wang, Z.**, Liu, J., Liu, Z. and Zhang, G., 2021. Quantification on fuel cell degradation and techno-economic analysis of a hydrogen-based grid-interactive residential energy sharing network with fuel-cell-powered vehicles. Applied Energy, 303, p.117444.
 1.	Hong, T., Chen, C.F., **Wang, Z.** and Xu, X., 2020. Linking human-building interactions in shared offices with personality traits. Building and Environment, 170, p.106602.
