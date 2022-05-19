@@ -3,15 +3,6 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Service"
-    url: /service/  
-
-  - title: "Softwares"
-    url: /softwares/    
-
   - title: "Teaching"
     url: /teaching/   
 
@@ -20,6 +11,15 @@ main:
 
   - title: "Team"
     url: /team/
+
+  - title: "Softwares"
+    url: /softwares/  
+
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Service"
+    url: /service/  
 
   - title: "CV"
     url: /cv/
