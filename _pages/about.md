@@ -17,6 +17,7 @@ redirect_from:
 
 Recent news
 ======
+- Our team was awarded the [Gold Award](http://walterzwang.github.io/files/2022EMSDAIChallenge.pdf), **Best Use of Tencent Cloud Award**, and **Huawei Most Innovative Use of Data Award** in the [2022 Global AI Challenge for Building E&M Facilites](https://www.globalaichallenge.com/en/home) organized by Hong Kong EMSD (June 2022)
 - I gave a guest lecture on Reinforcement Learning for Smart Building Control at *University College London* (Feb, 2022)
 - I was awarded the *2021 Foshan University-Enterprise Collaborative R&D Fund*, as the co-PI, working on *Thermal Management for the Autonomous Cruise UVC Disinfection and Microclimate Air-conditioning Robot* (Jan, 2022)
 - I accepted the invitation to join [the George H. W. Bush Foundation for U.S.-China Relations](https://bushchinafoundation.org/) as [Fellow](http://walterzwang.github.io/files/BushFoundationFellow.pdf) (Nov, 2021)
@@ -31,5 +32,5 @@ Recent news
 - I presented Improving Building Performance Simulation with Detailed Occupant Movement and Behavior Modeling at *Building Performance Analysis Conference and SimBuild* (Aug, 2020)
 - I presented Machine Learning for Anomaly Detection in Subjective Thermal Comfort Votes at *ASHRAE Winter's Conference* (Feb, 2020)
 - I presented Inferring Occupant Counts from Wi-Fi Data at *ASHRAE Annual Conference* (Jul, 2019)
-- I was invited to give a speech on the [Seventh-Round High-level Consultation on U.S.-China People to People Exchange](https://www.tsinghua.edu.cn/info/1756/71634.htm). This event was chaired by Chinese Vice Premier Yandong Liu and U.S. Secretary of State John Kerry. Zhe was the ONLY representative of Chinese young scholar (Jun, 2016)<br/><img src='/images/PeopleToPeopleExchange.png' width='800'>
+- I was invited to give a speech on the [Seventh-Round High-level Consultation on U.S.-China People to People Exchange](https://www.tsinghua.edu.cn/info/1756/71634.htm). This event was chaired by Chinese Vice Premier Yandong Liu and U.S. Secretary of State John Kerry. Zhe was the **ONLY** representative of Chinese young scholar (Jun, 2016)<br/><img src='/images/PeopleToPeopleExchange.png' width='800'>
 - I was selected as a [Schwarzman Scholar](http://en.sc.tsinghua.edu.cn/) and enrolled into the [Inaugural Class](https://www.nytimes.com/2016/01/11/business/dealbook/schwarzman-scholars-announces-inaugural-class-to-study-in-china.html) (Dec, 2015)
