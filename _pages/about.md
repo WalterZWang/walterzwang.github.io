@@ -17,7 +17,9 @@ redirect_from:
 
 Recent news
 ======
-- Our team was awarded the [Gold Award](http://walterzwang.github.io/files/2022EMSDAIChallenge.pdf), **Best Use of Tencent Cloud Award**, and **Huawei Most Innovative Use of Data Award** in the [2022 Global AI Challenge for Building E&M Facilites](https://www.globalaichallenge.com/en/home) organized by Hong Kong EMSD (June 2022)
+- We collaborate with Midea to work on **Model Predictive Control for Demand Response** (Aug, 2022) 
+- We establish the [Green Building and Smart Construction Lab](https://hkust.shciri.cn/research/platform/288.html) with [HKUST Shen Zhen-Hong Kong Collaborative Innovation Research Institute](https://hkust.shciri.cn/) (Jul, 2022)
+- Our team was awarded the [Gold Award](http://walterzwang.github.io/files/2022EMSDAIChallenge.pdf), **Best Use of Tencent Cloud Award**, and **Huawei Most Innovative Use of Data Award** in the [2022 Global AI Challenge for Building E&M Facilites](https://www.globalaichallenge.com/en/home) organized by Hong Kong EMSD (Jun, 2022)
 - I gave a guest lecture on Reinforcement Learning for Smart Building Control at *University College London* (Feb, 2022)
 - I was awarded the *2021 Foshan University-Enterprise Collaborative R&D Fund*, as the co-PI, working on *Thermal Management for the Autonomous Cruise UVC Disinfection and Microclimate Air-conditioning Robot* (Jan, 2022)
 - I accepted the invitation to join [the George H. W. Bush Foundation for U.S.-China Relations](https://bushchinafoundation.org/) as [Fellow](http://walterzwang.github.io/files/BushFoundationFellow.pdf) (Nov, 2021)
