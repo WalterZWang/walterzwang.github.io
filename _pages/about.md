@@ -17,6 +17,8 @@ redirect_from:
 
 Recent news
 ======
+- We collaborate with Tencent to work on **Model Predictive Control for energy efficient data center** sponsored by Tencent Open Fund (Sep, 2022)
+- I accept the invitation to serve as the Section Editor for [Energy and Buildings](https://www.sciencedirect.com/journal/energy-and-buildings/about/editorial-board) (Aug, 2022)
 - We collaborate with Midea to work on **Model Predictive Control for Demand Response** (Aug, 2022) 
 - We establish the [Green Building and Smart Construction Lab](https://hkust.shciri.cn/research/platform/288.html) with [HKUST Shen Zhen-Hong Kong Collaborative Innovation Research Institute](https://hkust.shciri.cn/) (Jul, 2022)
 - Our team was awarded the [Gold Award](http://walterzwang.github.io/files/2022EMSDAIChallenge.pdf), **Best Use of Tencent Cloud Award**, and **Huawei Most Innovative Use of Data Award** in the [2022 Global AI Challenge for Building E&M Facilites](https://www.globalaichallenge.com/en/home) organized by Hong Kong EMSD (Jun, 2022)
