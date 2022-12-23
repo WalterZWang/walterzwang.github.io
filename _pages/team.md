@@ -5,7 +5,11 @@ permalink: /team/
 author_profile: true
 ---
 
-## Postdoc
+## Activities
+<img src="../images/team/Lamma2022.jpg" width="800"> <br/>Year end group trip to Lamma Island on 20th Dec., 2022
+
+
+## Postdocs
 
 <img src="../images/team/Qi.jpg" width="120"> <br/>[ZHOU Qi](https://kishuqizhou.github.io/), join in May 2022<br/>Highest degree so far: Ph.D., University of Tokyo
 
@@ -13,9 +17,7 @@ author_profile: true
 
 
 
-## Ph.D.
-
-<img src="../images/team/Weishun.jpg" width="120"> <br/>[DENG Weishun](https://weishundeng.github.io/), join in April 2022<br/>Highest degree so far: Master, Shanghai Jiao Tong University
+## Ph.D.s
 
 <img src="../images/team/Zeyu.jpg" width="120"> <br/>[DUAN Zeyu](https://zyduan-neptune.github.io/ZyDuan.github.io/), join in September 2022<br/>Highest degree so far: Master, Tongji University
 
@@ -29,3 +31,4 @@ author_profile: true
 
 ## Alumni
 
+<img src="../images/team/Weishun.jpg" width="120"> <br/>[DENG Weishun](https://weishundeng.github.io/), join as Research Assistant between April until August 2022<br/>Highest degree so far: Master, Shanghai Jiao Tong University
