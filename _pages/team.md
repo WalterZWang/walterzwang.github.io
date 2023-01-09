@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Activities
-<img src="../images/team/Lamma2022.jpg" width="800"> <br/>Year end group trip to Lamma Island on 20th Dec., 2022
+<img src="../images/team/Lamma2022.jpg" width="600"> <br/>Year end group trip to Lamma Island on 20th Dec., 2022
 
 
 ## Postdocs
@@ -20,8 +20,6 @@ author_profile: true
 ## Ph.D.s
 
 <img src="../images/team/Zeyu.jpg" width="120"> <br/>[DUAN Zeyu](https://zyduan-neptune.github.io/ZyDuan.github.io/), join in September 2022<br/>Highest degree so far: Master, Tongji University
-
-<img src="../images/team/Mingyue2.jpg" width="120"> <br/>[GUO Mingyue](https://lunaguo.github.io/), join in September 2022<br/>Highest degree so far: Master, Tongji University
 
 <img src="../images/team/Wanfu.jpg" width="120"> <br/>ZHENG Wanfu, join in September 2022<br/>Highest degree so far: Master, KTH Royal Institute of Technology
 
