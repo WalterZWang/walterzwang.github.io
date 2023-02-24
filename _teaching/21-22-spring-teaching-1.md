@@ -2,7 +2,7 @@
 title: "Energy System Modeling for Buildings and Cities"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2022-spring-ESMBC
+permalink: /teaching/21-22-spring-ESMBC
 venue: "Hong Kong University of Science and Technology"
 date: 2022-02-04
 location: "Hong Kong SAR"
@@ -18,4 +18,4 @@ This course provides theory and hands-on experience about energy system modellin
 
 This course has four modules: review of thermal fundamentals, math and programming of dynamic systems, major components of HVAC system, and energy system modeling at different scales.
 
-[Download the Syllabus](http://walterzwang.github.io/files/Syllabus of CIVL4100N – Energy System Modeling for Buildings and Cities.pdf)
+[Download the Syllabus](http://walterzwang.github.io/files/Syllabus/Syllabus of CIVL4100N – Energy System Modeling for Buildings and Cities.pdf)

@@ -16,4 +16,4 @@ HVAC system is an important part of modern buildings. People spends 85% of time 
 ## Contents
 This course provides the theoretical and practical knowledge of modern HVAC systems. This course has three modules: review of fundamentals of how HVAC system works, major components of HVAC system, and advanced topics about intelligent HVAC system. 
 
-[Download the Syllabus](http://walterzwang.github.io/files/Syllabus of IBTM 5150 – Advanced HVAC Systems.pdf)
+[Download the Syllabus](http://walterzwang.github.io/files/Syllabus/Syllabus of IBTM 5150 – Advanced HVAC Systems.pdf)

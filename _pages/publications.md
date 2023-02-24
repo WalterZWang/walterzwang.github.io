@@ -20,6 +20,8 @@ author_profile: true
 <sup>\#</sup>: Contributed equally; <sup>\*</sup>: Corresponding author
 
 ## Journal Papers
+1.	**Wang, Z.** and He, Y., 2023. AlphaHydrogen: A virtual platform for simulating and evaluating station-based regional hydrogen-electricity networks with distributed renewables, buildings, and fuel-cell vehicles. Energy Conversion and Management, 280, p.116802.
+1.	**Wang, Z.**, 2022. How frequent should we measure the indoor thermal environment. Building and Environment, 222, p.109464.
 1.	**Wang, Z.**, Chen, B., Li, H. and Hong, T., 2021. AlphaBuilding ResCommunity: A multi-agent virtual testbed for community-level load coordination. Advances in Applied Energy, 4, p.100061.
 1.	**Wang, Z.**, Hong, T. and Li, H., 2021. Informing the planning of rotating power outages in heat waves through data analytics of connected smart thermostats for residential buildings. Environmental Research Letters, 16(7), p.074003.
 1.	**Wang, Z.**, Hong, T., Li, H. and Piette, M.A., 2021. Predicting city-scale daily electricity consumption using data-driven models. Advances in Applied Energy, 2, p.100025.
@@ -47,12 +49,16 @@ author_profile: true
 1.	Wang, J.<sup>\#</sup>, **Wang, Z.<sup>\*,\#</sup>**, de Dear, R., Luo, M., Ghahramani, A. and Lin, B., 2018. The uncertainty of subjective thermal comfort measurement. Energy and Buildings, 181, pp.38-49.
 1.	Liu, Y.<sup>\#</sup>, **Wang, Z.<sup>\#</sup>**, Lin, B., Hong, J. and Zhu, Y., 2018. Occupant satisfaction in Three-Star-certified office buildings based on comparative study using LEED and BREEAM. Building and Environment, 132, pp.1-10.
 1.	Touzani, S.<sup>\#</sup>, Prakash, A.K.<sup>\#</sup>, **Wang, Z.<sup>\#</sup>**, Agarwal, S., Pritoni, M., Kiran, M., Brown, R. and Granderson, J., 2021. Controlling distributed energy resources via deep reinforcement learning for load flexibility and energy efficiency. Applied Energy, 304, p.117733.
+1.	Zhong, H., Guo, M., Wang, Y. and **Wang, Z.<sup>\*</sup>**, 2023. Quantify the magnitude and energy impact of overcooling in a sub-tropical campus building. Building and Environment, p.110033.
+1.	Wang, Y., Wang, X., Zheng, L., Gao, X., **Wang, Z.<sup>\*</sup>**, You, S., Zhang, H. and Wei, S., 2023. Thermo-hydraulic coupled analysis of long-distance district heating systems based on a fully-dynamic model. Applied Thermal Engineering, 222, p.119912.
+1.	Kim, D., **Wang, Z.**, Brugger, J., Blum, D., Wetter, M., Hong, T. and Piette, M.A., 2022. Site demonstration and performance evaluation of MPC for a large chiller plant with TES for renewable energy integration and grid decarbonization. Applied Energy, 321, p.119343.
+1.	Luo, N., **Wang, Z.**, Blum, D., Weyandt, C., Bourassa, N., Piette, M.A. and Hong, T., 2022. A three-year dataset supporting research on building energy management and occupancy analytics. Scientific Data, 9(1), p.156.
+1.	Wang, M., **Wang, Z.**, Geng, Y. and Lin, B., 2022. Interpreting the neural network model for HVAC system energy data mining. Building and Environment, 209, p.108449.
 1. Pinto, G., **Wang, Z.**, Roy, A., Hong, T. and Capozzoli, A., 2022. Transfer learning for smart buildings: A critical review of algorithms, applications, and future perspectives. Advances in Applied Energy, p.100084.
 1.	Luo, M., **Wang, Z.**, Ke, K., Cao, B., Zhai, Y. and Zhou, X., 2018. Human metabolic rate and thermal comfort in buildings: The problem and challenge. Building and Environment, 131, pp. 44-52
 1.	Li, H., **Wang, Z.** and Hong, T., 2021. A synthetic building operation dataset. Scientific data, 8(1), pp.1-13.
 1.	Li, H., **Wang, Z.**, Hong, T. and Piette, M.A., 2021. Energy Flexibility of Residential Buildings: A Systematic Review of Characterization and Quantification Methods and Applications. Advances in Applied Energy, p.100054.
 1.	Li, H., **Wang, Z.**, Hong, T., Parker, A. and Neukomm, M., 2021. Characterizing patterns and variability of building electric load profiles in time and frequency domains. Applied Energy, 291, p.116721.
-1. Wang, M., **Wang, Z.**, Geng, Y. and Lin, B., 2021. Interpreting the neural network model for HVAC system energy data mining. Building and Environment, p.108449.
 1.	Li, H., **Wang, Z.** and Hong, T., 2021. Occupant-Centric key performance indicators to inform building design and operations. Journal of Building Performance Simulation, pp.1-29.
 1.	Hong, T., **Wang, Z.**, Luo, X. and Zhang, W., 2020. State-of-the-art on research and applications of machine learning in the building life cycle. Energy and Buildings, p.109831.
 1.	Jiang, Y., **Wang, Z.**, Lin, B. and Mumovic, D., 2020. Development of a health data-driven model for a thermal comfort study. Building and Environment, p.106874.
@@ -74,6 +80,8 @@ author_profile: true
 1.	Wang, J., Hua, J., Fu, L., **Wang, Z.** and Zhang, S., 2019. A theoretical fundamental investigation on boilers equipped with vapor-pump system for Flue-Gas Heat and Moisture Recovery. Energy, 171, pp.956-970.
 1.	Luo, M., Ke, Z., Ji, W., **Wang, Z.**, Cao, B., Zhou, X. and Zhu, Y., 2019. The time-scale of thermal comfort adaptation in heated and unheated buildings. Building and Environment, 151, pp.175-186.
 1.	Geng, Y., Yu, J., Lin, B., **Wang, Z.** and Huang, Y., 2017. Impact of individual IEQ factors on passengers' overall satisfaction in Chinese airport terminals. Building and Environment, 112, pp.241-249.
+1.	Liu, Y., Li, H., Zheng, P., Wu, H., **Wang, Z.**, Li, Z. and Lin, B., 2023. Non-invasive measurements of thermal discomfort for thermal preference prediction based on occupants' adaptive behavior recognition. Building and Environment, 228, p.109889.
+1.	Tang, H., Yu, J., Lin, B., Geng, Y., **Wang, Z.**, Chen, X., Yang, L., Lin, T. and Xiao, F., 2023. Airport terminal passenger forecast under the impact of COVID-19 outbreaks: A case study from China. Journal of Building Engineering, 65, p.105740.
 1. He, Y., Zhou, Y., Yuan, J., Liu, Z., **Wang, Z.** and Zhang, G., 2021. Transformation towards a carbon-neutral residential community with hydrogen economy and advanced energy management strategies. Energy Conversion and Management, 249, p.114834.
 1.	Chen, C.F., De Simone, M., Yilmaz, S., Xu, X., **Wang, Z.**, Hong, T. and Pan, Y., 2021. Intersecting heuristic adaptive strategies, building design and energy saving intentions when facing discomfort environment: A cross-country analysis. Building and Environment, 204, p.108129.
 1.	Li, Z., Lin, B., Zheng, S., Liu, Y., **Wang, Z.** and Dai, J., 2020, August. A review of operational energy consumption calculation method for urban buildings. Building Simulation, Vol. 13, No. 4, pp. 739-751
@@ -81,6 +89,7 @@ author_profile: true
 1.	Ghahramani, A., Galicia, P., Lehrer, D., Varghese, Z., **Wang, Z.** and Pandit, Y., 2020. Artificial Intelligence for Efficient Thermal Comfort Systems: Requirements, Current Applications and Future Directions. Frontiers in Built Environment, 6.
 1.	Luo, M., Arens, E., Zhang, H., Ghahramani, A. and **Wang, Z.**, 2018. Thermal comfort evaluated for combinations of energy-efficient personal heating and cooling devices. Building and Environment, 143, pp.206-216.
 1.	Taylor, J., Liu, Y., Lin, B., Burman, E., Hong, S.M., Yu, J., **Wang, Z.**, Mumovic, D., Shrubsole, C., Vermeer, D. and Davies, M., 2018. Towards a framework to evaluate the ‘total’performance of buildings. Building Services Engineering Research and Technology, p.0143624418762662.
+1.	Dong, B., Liu, Y., Mu, W., Jiang, Z., Pandey, P., Hong, T., Olesen, B., Lawrence, T., O’Neil, Z., Andrews, C. and Azar, E.,…, **Wang, Z.** … 2022. A global building occupant behavior database. Scientific data, 9(1), p.369.
 
 ## Conference Papers
 1.	Chen, B., Jin, M., **Wang, Z.**, Hong, T. and Bergés, M., 2020, November. Towards Off-policy Evaluation as a Prerequisite for Real-world Reinforcement Learning in Building Control. In Proceedings of the 1st International Workshop on Reinforcement Learning for Energy Management in Buildings & Cities (pp. 52-56).

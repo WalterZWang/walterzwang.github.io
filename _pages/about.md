@@ -17,6 +17,7 @@ redirect_from:
 
 Recent news
 ======
+- $\color{#37a55a}{Funding:}$ I was awarded the Fei Chi En Education and Research Fund, as the PI, working on *An AI-assisted solution for low-cost high-resolution urban scale environmental simulation* (Feb, 2023)
 - $\color{#37a55a}{Funding:}$ I was awarded the [CRF 2022/23 Young Collaborative Research Grant (YCRG)](https://www.ugc.edu.hk/eng/rgc/funding_opport/crf/funded%20research/22-23.html), as the PC, working on *Toward 2060 Carbon Neutrality: Life-cycle Planning and Design of Photovoltaic Integrated Green Roof (PVIGR) Systems for Hong Kong and the Greater Bay Area* (Jan, 2023)
 - $\color{#fe4a49}{Award:}$ Our team has won the second place in the [基于柔性负荷任务的需量优化策略挑战赛](https://challenge.xfyun.cn/topic/info?type=demand-optimization&option=ssgy) organized by 科大讯飞 (Oct, 2022)
 - $\color{#37a55a}{Funding:}$ We collaborate with Tencent to work on *Model Predictive Control for energy efficient data center* sponsored by *Tencent Open Fund* (Sep, 2022)

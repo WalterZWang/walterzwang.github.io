@@ -1,11 +1,11 @@
 ---
-title: "Deep Reinforcement Learning for Building Control"
-excerpt: "Co-PI, this project is to explore the application of Deep Reinforcement Learning for Building Control<br/><img src='/images/portfolios/LDRD_DRL.png' width='600'>"
+title: "Model Predictive Control for Demand Response"
+excerpt: "PI, this project is to develop a software solution to deploy Model Predictive Control for demand response"
 collection: portfolio
 ---
 
 ## Funding agency
-Lawrence Berkeley National Laboratory Directed Research and Development, 2019-2021 
+Midea Group, 2022-2023 
 
 ## Project introduction
-Advanced building control is needed on our way to the low-carbon economy when the building energy system becomes increasingly complicated (e.g. HVAC, energy storage, electrical vehicle, etc.) and building-grid interaction is needed. The rule-based setpoint-tracking building control cannot reospond to the grid signal efficiently, while Model Predictive Control requires a model which is labor and expertise demanding to develop. Deep Reinforcement Learning, as a model-free approach, has demonstrated its potential for superior dynamic decision making in many tasks, such as gaming and robotics. This project is to explore the application of Deep Reinforcement Learning for building control. The target building is a multi-usage building (office and data center) located in Berkeley, California.
+With the penetration of renewable generation, demand response becomes increasingly important to maintain real-time balance for the grid. Buildings, as a major electricity consumer and with significant thermal mass, have large potential to deliever grid services. However, conventional Rule-Based control is diffcult to respond to the grid signal in the most efficient way. This research aims to unlock this potential using Model Predictive Control. The controller will be deployed in a real office building located in Midea Campus.  
