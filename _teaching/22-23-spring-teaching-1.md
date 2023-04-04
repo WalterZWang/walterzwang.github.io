@@ -18,4 +18,4 @@ This course covers fundamental machine learning concepts and hands-on experience
 One key feature of this course is its application-driven nature. All applications of this course are about smart infrastructure systems. Through those applications, students will know how ML can be applied in their future career and research.<br/>
 
 
-[Download the Syllabus](http://walterzwang.github.io/files/Syllabus/Syllabus of CIVL4100R Practical Machine Learning for Smart Infraustructure Systems.pdf.pdf)
+[Download the Syllabus](http://walterzwang.github.io/files/Syllabus/Syllabus of CIVL4100R Practical Machine Learning for Smart Infraustructure Systems.pdf)

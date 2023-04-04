@@ -2,7 +2,7 @@
 title: "Advanced HVAC System"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2022-spring-teaching-2
+permalink: /teaching/21-22-spring-teaching-2
 venue: "Hong Kong University of Science and Technology"
 date: 2022-02-04
 location: "Hong Kong SAR"

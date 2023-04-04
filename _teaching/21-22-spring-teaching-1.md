@@ -2,7 +2,7 @@
 title: "Energy System Modeling for Buildings and Cities"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/21-22-spring-ESMBC
+permalink: /teaching/21-22-spring-1
 venue: "Hong Kong University of Science and Technology"
 date: 2022-02-04
 location: "Hong Kong SAR"
