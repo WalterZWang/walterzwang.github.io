@@ -31,7 +31,7 @@ author_profile: true
 
 <img src="../images/team/member/Shihong Zhang.jpg" width="120"> <br/>ZHANG Shihong, join in September 2023<br/>Highest degree so far: Master, Wuhan University
 
-<img src="../images/team/member/Mingchen Li.jpg" width="120"> <br/>LI Mingchen, join in September 2023<br/>Highest degree so far: Master, Tianjin University
+<img src="../images/team/member/Mingchen Li.png" width="120"> <br/>LI Mingchen, join in September 2023<br/>Highest degree so far: Master, Tianjin University
 
 <img src="../images/team/member/Zhenyu Wang.jpg" width="120"> <br/>WANG Zhenyu, join in September 2023<br/>Highest degree so far: Master, Sun Yat-sen University
 
@@ -42,4 +42,4 @@ author_profile: true
 
 ## Alumni
 
-<img src="../images/team/Weishun.jpg" width="120"> <br/>[DENG Weishun](https://weishundeng.github.io/), join as Research Assistant between April until August 2022<br/>Highest degree so far: Master, Shanghai Jiao Tong University
+<img src="../images/team/member/Weishun.jpg" width="120"> <br/>[DENG Weishun](https://weishundeng.github.io/), join as Research Assistant between April until August 2022<br/>Highest degree so far: Master, Shanghai Jiao Tong University
