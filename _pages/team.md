@@ -25,19 +25,15 @@ author_profile: true
 
 <img src="../images/team/member/Si.jpg" width="120"> <br/>WU Si, join in September 2022<br/>Highest degree so far: Master, Shanghai Jiao Tong University
 
-<img src="../images/team/member/Haoran Zhong.jpg" width="120"> <br/>ZHONG Haoran, join in September 2023<br/>Highest degree so far: Bachelor, Tianjin University
-
-<img src="../images/team/member/Zinan LIN.jpg" width="120"> <br/>LIN Zinan, join in September 2023<br/>Highest degree so far: Master, The Hong Kong University of Science and Technology
+<img src="../images/team/member/Zinan LIN.jpg" width="120"> <br/>[LIN Zinan](https://zinanlin-oscar.github.io/), join in September 2023<br/>Highest degree so far: Master, The Hong Kong University of Science and Technology
 
 <img src="../images/team/member/Shihong Zhang.jpg" width="120"> <br/>ZHANG Shihong, join in September 2023<br/>Highest degree so far: Master, Wuhan University
 
-<img src="../images/team/member/Mingchen Li.png" width="120"> <br/>LI Mingchen, join in September 2023<br/>Highest degree so far: Master, Tianjin University
-
-<img src="../images/team/member/Zhenyu Wang.jpg" width="120"> <br/>WANG Zhenyu, join in September 2023<br/>Highest degree so far: Master, Sun Yat-sen University
+<img src="../images/team/member/Mingchen Li.png" width="120"> <br/>[LI Mingchen](https://limingchen159.github.io/), join in September 2023<br/>Highest degree so far: Master, Tianjin University
 
 <img src="../images/team/member/Lige Zhao.jpg" width="120"> <br/>ZHAO Lige, join in September 2023<br/>Highest degree so far: Bachelor, Tsinghua University
 
-<img src="../images/team/member/Hai Huang.jpg" width="120"> <br/>HUANG Hai, join in September 2023<br/>Highest degree so far: Bachelor, Harbin Institute of Technology
+<img src="../images/team/member/Hai Huang.jpg" width="120"> <br/>HUANG Hai, join in Feb 2024<br/>Highest degree so far: Bachelor, Harbin Institute of Technology
 
 
 ## Alumni

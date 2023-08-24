@@ -17,8 +17,16 @@ redirect_from:
 
 Recent news
 ======
+- $\color{#37a55a}{Funding:}$ I was awarded the National Science Fund for Excellent Young Scholars by NSFC, as the PI, working on *Advanced building control for energy efficiency and load flexibility* (Aug, 2023)
+- $\color{#37a55a}{Funding:}$ I was awarded the National Science Fund for Young Scholars by NSFC, as the PI, working on *Cabin thermal management for electrical vehicles* (Aug, 2023)
+- $\color{#37a55a}{Funding:}$ I was awarded the Shui On Sustainable Research Fund, as the PI, working on *Modeling and optimization for building energy system* (July, 2023)
+- $\color{#5c1d9f}{Career:}$ I will work as the task leader for the [International Building Performance Simulation Association (IBPSA) Project 2: Community Development and Usage of BOPTEST](https://ibpsa.github.io/project1-boptest/ibpsa/index.html) with researchers from LBNL, ETH Zurich, KU Leuven etc. I will co-lead Task 4 on Controller Testing with Esther Borkowski from ETH Zurich. (July, 2023)
+- $\color{#37a55a}{Funding:}$ I was awarded the Early Career Scheme by Hong Kong Research Grant Committee, as the PI, working on *Model Predictive Control in Hong Kong’s Residential Buildings for Energy Efficiency and Load Flexibility* (June, 2023)
+- $\color{#37a55a}{Funding:}$ I was awarded the Shenzhen Sustainable Development Research Grant, as the co-PI, working on *Fault detection and control optimization for air-conditioning system of commercial buildings* (May, 2023)
+- $\color{#fe4a49}{Award:}$ Our paper *AlphaMobileSensing: A virtual testbed for mobile environmental monitoring* has been selected as the cover article by [Building Simulation](https://www.springer.com/journal/12273) (Apr, 2023)
 - $\color{#37a55a}{Funding:}$ I was awarded the Fei Chi En Education and Research Fund, as the PI, working on *An AI-assisted solution for low-cost high-resolution urban scale environmental simulation* (Feb, 2023)
 - $\color{#37a55a}{Funding:}$ I was awarded the [CRF 2022/23 Young Collaborative Research Grant (YCRG)](https://www.ugc.edu.hk/eng/rgc/funding_opport/crf/funded%20research/22-23.html), as the PC, working on *Toward 2060 Carbon Neutrality: Life-cycle Planning and Design of Photovoltaic Integrated Green Roof (PVIGR) Systems for Hong Kong and the Greater Bay Area* (Jan, 2023)
+- $\color{#5c1d9f}{Career:}$ I was named as the *World’s Top 2% Scientists 2022* by Stanford University & Elsevier for the second consecutive year (Oct, 2022)
 - $\color{#fe4a49}{Award:}$ Our team has won the second place in the [基于柔性负荷任务的需量优化策略挑战赛](https://challenge.xfyun.cn/topic/info?type=demand-optimization&option=ssgy) organized by 科大讯飞 (Oct, 2022)
 - $\color{#37a55a}{Funding:}$ We collaborate with Tencent to work on *Model Predictive Control for energy efficient data center* sponsored by *Tencent Open Fund* (Sep, 2022)
 - $\color{#5c1d9f}{Career:}$ I accept the invitation to serve as the Section Editor for [Energy and Buildings](https://www.sciencedirect.com/journal/energy-and-buildings/about/editorial-board) (Aug, 2022)
@@ -30,6 +38,7 @@ Recent news
 - $\color{#5c1d9f}{Career:}$ I accepted the invitation to join [the George H. W. Bush Foundation for U.S.-China Relations](https://bushchinafoundation.org/) as [Fellow](http://walterzwang.github.io/files/BushFoundationFellow.pdf) (Nov, 2021)
 - $\color{#5c1d9f}{Career:}$ I accepted the invitation to join the editorial board of *Frontiers in Built Environment* as Associate Editor (Nov, 2021)
 - $\color{#2ab7ca}{Talk:}$ I gave a guest lecture on Application of Generative Adversarial Networks (GANs) in Smart Buildings at *Syracuse University* (Nov, 2021)
+- $\color{#5c1d9f}{Career:}$ I was named as the *World’s Top 2% Scientists 2021* by Stanford University & Elsevier (Oct, 2021)
 - $\color{#5c1d9f}{Career:}$ I accepted the offer to join *The Hong Kong University of Science and Technology* as Assistant Professor (Jul, 2021)
 - $\color{#5c1d9f}{Career:}$ I accepted the invitation to join the editorial board of *Building Simulation* as Subject Editor (Jan, 2021)
 - $\color{#0b5394}{Talk:}$ I gave a guest lecture on Application of Generative Adversarial Networks (GANs) in Smart Buildings at *Syracuse University* (Oct, 2020)
