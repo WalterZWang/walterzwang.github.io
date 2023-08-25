@@ -13,8 +13,9 @@ author_profile: true
 
 <img src="../images/team/member/Qi.jpg" width="120"> <br/>[ZHOU Qi](https://kishuqizhou.github.io/), join in May 2022<br/>Highest degree so far: Ph.D., University of Tokyo
 
-<img src="../images/team/member/Dan.jpg" width="120"> <br/>[WANG Dan](https://danwang9264.github.io/), join in June 2022<br/>Highest degree so far: Ph.D., Beijing University of Technology
+<img src="../images/team/member/Dan.jpg" width="120"> <br/>[WANG Dan](https://danwang9264.github.io/), join in July 2022<br/>Highest degree so far: Ph.D., Beijing University of Technology
 
+<img src="../images/team/member/Liutao.jpg" width="120"> <br/>Liutao Chen, join in September 2023<br/>Highest degree so far: Ph.D., The Hong Kong University of Science and Technology
 
 
 ## Ph.D. & M.Phil.
@@ -32,6 +33,8 @@ author_profile: true
 <img src="../images/team/member/Mingchen Li.png" width="120"> <br/>[LI Mingchen](https://limingchen159.github.io/), join in September 2023<br/>Highest degree so far: Master, Tianjin University
 
 <img src="../images/team/member/Lige Zhao.jpg" width="120"> <br/>ZHAO Lige, join in September 2023<br/>Highest degree so far: Bachelor, Tsinghua University
+
+<img src="../images/team/member/Parastoo.jpg" width="120"> <br/>Parastoo Mohebi, join in September 2023<br/>Highest degree so far: Master, Sharif University of Technology
 
 <img src="../images/team/member/Hai Huang.jpg" width="120"> <br/>HUANG Hai, join in Feb 2024<br/>Highest degree so far: Bachelor, Harbin Institute of Technology
 
