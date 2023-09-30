@@ -13,6 +13,7 @@ author_profile: true
 
 ## Grant Proposal Reviewer
 1. [The Dunhill Medical Trust](https://dunhillmedical.org.uk/), UK
+2. [MTR Research Funding Scheme](https://www.mtracademy.com/script/en/research/index.aspx), Hong Kong
 
 ## Workshop Organizer
 1. [International Workshop on Reinforcement Learning for Energy Management in Buildings & Cities](https://rlem-workshop.net/), Technical Program Committee, 2021
