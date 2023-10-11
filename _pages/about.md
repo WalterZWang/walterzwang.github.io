@@ -16,6 +16,7 @@ redirect_from:
 
 Recent news
 ======
+- $\color{#5c1d9f}{Career:}$ I was named as the [World’s Top 2% Scientists 2023](https://mp.weixin.qq.com/s/GBeXIMKf6DEaL_Kl-LwTZQ) by Stanford University & Elsevier for the third consecutive year (Oct, 2023)
 - $\color{#37a55a}{Funding:}$ I was awarded the [National Science Fund for Excellent Young Scholars](https://seng.hkust.edu.hk/news/20230915/prof-wang-zhe-and-prof-yang-jiachuan-named-excellent-young-scientists-national-natural-science-foundation-china) by NSFC, as the PI, working on *Advanced building control for energy efficiency and load flexibility* (Aug, 2023)
 - $\color{#37a55a}{Funding:}$ I was awarded the National Science Fund for Young Scholars by NSFC, as the PI, working on *Cabin thermal management for electrical vehicles* (Aug, 2023)
 - $\color{#37a55a}{Funding:}$ I was awarded the Shui On Sustainable Research Fund, as the PI, working on *Modeling and optimization for building energy system* (July, 2023)

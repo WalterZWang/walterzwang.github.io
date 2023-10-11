@@ -42,3 +42,5 @@ author_profile: true
 ## Alumni
 
 <img src="../images/team/member/Weishun.jpg" width="120"> <br/>[DENG Weishun](https://weishundeng.github.io/), join as Research Assistant between April until August 2022<br/>Highest degree so far: Master, Shanghai Jiao Tong University
+
+<img src="../images/team/member/Yirong.jpg" width="120"> <br/>DING Yirong, join as Master of Science student in 2023<br/>After graduation, Yirong joined Virginia Tech as a Ph.D student
