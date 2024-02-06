@@ -16,7 +16,7 @@ author_profile: true
 
 <img src="../images/team/member/Dan.jpg" width="120"> <br/>[WANG Dan](https://danwang9264.github.io/), join in July 2022<br/>Highest degree so far: Ph.D., Beijing University of Technology
 
-<img src="../images/team/member/Liutao.jpg" width="120"> <br/>Liutao Chen, join in September 2023<br/>Highest degree so far: Ph.D., The Hong Kong University of Science and Technology
+<img src="../images/team/member/Liutao.jpg" width="120"> <br/>[Liutao Chen](https://chenlt326.github.io/), join in September 2023<br/>Highest degree so far: Ph.D., The Hong Kong University of Science and Technology
 
 
 ## Ph.D. & M.Phil.
@@ -50,4 +50,4 @@ author_profile: true
 
 <img src="../images/team/member/Zhang Daze.jpg" width="120"> <br/>ZHANG Daze, joined as Master of Science student in 2023<br/>After graduation, Daze joined [P&T Group](https://web.p-t-group.com/en/) as buildng energy consultant
 
-<img src="../images/team/member/Han Runze.jpg" width="120"> <br/>HAN Runze, joined as Master of Science student in 2023<br/>After graduation, Runze joined [P&T Group](https://web.p-t-group.com/en/) as civil and construction engineer
+<img src="../images/team/member/Han Runze.jpg" width="120"> <br/>HAN Runze, joined as Master of Science student in 2023<br/>After graduation, Runze joined 哈尔滨电气国际工程责任有限公司 as civil and construction engineer
