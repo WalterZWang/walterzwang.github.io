@@ -37,17 +37,16 @@ author_profile: true
 
 <img src="../images/team/member/Parastoo.jpg" width="120"> <br/>Parastoo Mohebi, join in September 2023<br/>Highest degree so far: Master, Sharif University of Technology
 
-<img src="../images/team/member/Hai Huang.jpg" width="120"> <br/>HUANG Hai, join in Feb 2024<br/>Highest degree so far: Bachelor, Harbin Institute of Technology
+<img src="../images/team/member/Siqi.jpg" width="120"> <br/>Siqi Li, join in Feb 2024<br/>Highest degree so far: Master, University of Tokyo
 
 
 ## Alumni
+- LUO Haomin, MSc student, 2022. After graduation, Haomin joined University of Cambridge as a Ph.D student
 
-<img src="../images/team/member/Weishun.jpg" width="120"> <br/>[DENG Weishun](https://weishundeng.github.io/), joined as Research Assistant between April until August 2022<br/>Highest degree so far: Master, Shanghai Jiao Tong University
+- DING Yirong, MSc student, 2023. After graduation, Yirong joined Virginia Tech as a Ph.D student
 
-<img src="../images/team/member/Yirong.jpg" width="120"> <br/>DING Yirong, joined as Master of Science student in 2023<br/>After graduation, Yirong joined Virginia Tech as a Ph.D student
+- JIANG Zhan, MSc student, 2023. After graduation, Zhan joined Stevens Institute of Technology as a Ph.D student
 
-<img src="../images/team/member/Zhan Jiang.jpg" width="120"> <br/>JIANG Zhan, joined as Master of Science student in 2023<br/>After graduation, Zhan joined Stevens Institute of Technology as a Ph.D student
+- ZHANG Daze, MSc student, 2023. After graduation, Daze joined [P&T Group](https://web.p-t-group.com/en/) as buildng energy consultant
 
-<img src="../images/team/member/Zhang Daze.jpg" width="120"> <br/>ZHANG Daze, joined as Master of Science student in 2023<br/>After graduation, Daze joined [P&T Group](https://web.p-t-group.com/en/) as buildng energy consultant
-
-<img src="../images/team/member/Han Runze.jpg" width="120"> <br/>HAN Runze, joined as Master of Science student in 2023<br/>After graduation, Runze joined 哈尔滨电气国际工程责任有限公司 as civil and construction engineer
+- HAN Runze, MSc student, 2023. After graduation, Runze joined 哈尔滨电气国际工程责任有限公司 as civil and construction engineer
