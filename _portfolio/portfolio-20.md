@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 ## Funding agency
-Hong Kong Research Grant Committee, Early Career Scheme, 26209323, 2023-2026
+The National Science Fund for Young Scholars by NSFC, 52306028, 2024-2026
 
 ## Project introduction
 The HVAC system in electric vehicles (EVs) constitutes a significant portion (20-60%) of their total energy consumption. Efficient management of the cabin thermal environment can greatly enhance the driving range of EVs. However, existing cabin thermal models suffer from either excessive simplification (lumped parameter model) or excessive computational demands (CFD model), making real-time optimization challenging. Moreover, the current thermal comfort evaluation metrics for EV cabins are based on a single-node steady-state heat balance model, which is inadequate for transient and non-uniform cabin environments exposed to intense solar radiation.<br>
