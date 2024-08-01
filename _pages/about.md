@@ -15,6 +15,8 @@ redirect_from:
 
 Recent news
 ======
+- $\color{#37a55a}{Funding:}$ I was awarded the [2024 China Computer Federation (CCF) - Tencent Open Fund](https://mp.weixin.qq.com/s/wnXUKGaYNNTtAnZd3-lHlQ), as the PI, working on *Predictive maintanence for data center cooling plant* (July, 2024).
+- $\color{#37a55a}{Funding:}$ Our team is collaborating with [Shenzhen Ridge](https://www.szridge.com/#/) to develop building defect detection solutions using drone, infrared image and computer vision (May, 2024).
 - $\color{#0b5394}{Award:}$ Two papers on [city-scale load prediction](http://walterzwang.github.io/files/award/highly cited predicting city.pdf) and [energy flexibility](http://walterzwang.github.io/files/award/highly cited flexibility.pdf) published with Advances in Applied Energy have been awarded as the highly cited paper (Mar, 2024).
 - $\color{#0b5394}{Award:}$ Our team has won the [second place](https://www.ce.ust.hk/news/prof-zhe-wang-and-wanfu-zheng-win-second-place-citylearn-challenge-2023) in the [2023 NeurIPS CityLearn Challenge](https://www.aicrowd.com/challenges/neurips-2023-citylearn-challenge/problems/control-track-citylearn-challenge) (Nov, 2023)
 - $\color{#5c1d9f}{Career:}$ I was named as the [World’s Top 2% Scientists 2023](https://mp.weixin.qq.com/s/GBeXIMKf6DEaL_Kl-LwTZQ) by Stanford University & Elsevier for the third consecutive year (Oct, 2023)
@@ -27,7 +29,7 @@ Recent news
 - $\color{#37a55a}{Funding:}$ I was awarded the [CRF 2022/23 Young Collaborative Research Grant (YCRG)](https://seng.hkust.edu.hk/news/20230210/four-professors-awarded-grants-rgc-collaborative-research-fund-202223) funded by [the Hong Kong Research Grant Council](https://www.ugc.edu.hk/eng/rgc/funding_opport/crf/funded%20research/22-23.html), as the PC, working on *Toward 2060 Carbon Neutrality: Life-cycle Planning and Design of Photovoltaic Integrated Green Roof (PVIGR) Systems for Hong Kong and the Greater Bay Area* (Jan, 2023)
 - $\color{#5c1d9f}{Career:}$ I was named as the *World’s Top 2% Scientists 2022* by Stanford University & Elsevier for the second consecutive year (Oct, 2022)
 - $\color{#0b5394}{Award:}$ Our team has won the second place in the [基于柔性负荷任务的需量优化策略挑战赛](https://challenge.xfyun.cn/topic/info?type=demand-optimization&option=ssgy) organized by 科大讯飞 (Oct, 2022)
-- $\color{#37a55a}{Funding:}$ We collaborate with Tencent to work on *Model Predictive Control for energy efficient data center* sponsored by *Tencent Open Fund* (Sep, 2022)
+- $\color{#37a55a}{Funding:}$ We collaborate with Tencent to work on *Model Predictive Control for energy efficient data center* sponsored by *2022 China Computer Federation (CCF) - Tencent Open Fund* (Sep, 2022)
 - $\color{#5c1d9f}{Career:}$ I accept the invitation to serve as the Section Editor for [Energy and Buildings](https://www.sciencedirect.com/journal/energy-and-buildings/about/editorial-board) (Aug, 2022)
 - $\color{#37a55a}{Funding:}$ We collaborate with *Midea* to work on *Model Predictive Control for Demand Response* (Aug, 2022) 
 - $\color{#5c1d9f}{Career:}$ We establish the [Green Building and Smart Construction Lab](https://hkust.shciri.cn/research/platform/288.html) with [HKUST Shen Zhen-Hong Kong Collaborative Innovation Research Institute](https://hkust.shciri.cn/) (Jul, 2022)

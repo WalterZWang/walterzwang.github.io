@@ -41,12 +41,20 @@ author_profile: true
 
 
 ## Alumni
-- LUO Haomin, MSc student, 2022. After graduation, Haomin joined University of Cambridge as a Ph.D student
+- LUO Haomin, MSc student, 2022. Joining University of Cambridge as a Ph.D student
 
-- DING Yirong, MSc student, 2023. After graduation, Yirong joined Virginia Tech as a Ph.D student
+- DING Yirong, MSc student, 2023. Joining Virginia Tech as a Ph.D student
 
-- JIANG Zhan, MSc student, 2023. After graduation, Zhan joined Stevens Institute of Technology as a Ph.D student
+- JIANG Zhan, MSc student, 2023. Joining Stevens Institute of Technology as a Ph.D student
 
-- ZHANG Daze, MSc student, 2023. After graduation, Daze joined [P&T Group](https://web.p-t-group.com/en/) as buildng energy consultant
+- ZHANG Daze, MSc student, 2023. Joining [P&T Group](https://web.p-t-group.com/en/) as buildng energy consultant
 
-- HAN Runze, MSc student, 2023. After graduation, Runze joined 哈尔滨电气国际工程责任有限公司 as civil and construction engineer
+- HAN Runze, MSc student, 2023. Joining 哈尔滨电气国际工程责任有限公司 as civil and construction engineer
+
+- XU Lingming, MSc student, 2023. Joinging Alibaba Cloud as a product manager
+
+- FU Tianyu, MSc student, 2023. Joinging Shanghai Metro Group as an engineer
+
+- QU Yao, MSc student, 2023. Joinging HKUST as a Ph.D student
+
+- SO Siu Kuen Ella, MSc student, 2023. Joinging Arup as a consultant

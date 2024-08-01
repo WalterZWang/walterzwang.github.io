@@ -12,8 +12,9 @@ author_profile: true
 1. *Editor* of Building Energy Efficiency (建筑节能)
 
 ## Grant Proposal Reviewer
-1. [The Dunhill Medical Trust](https://dunhillmedical.org.uk/), UK
-2. [MTR Research Funding Scheme](https://www.mtracademy.com/script/en/research/index.aspx), Hong Kong
+1. [Competitive Research Programme](https://www.nrf.gov.sg/grants/crp/), Singapore
+2. [The Dunhill Medical Trust](https://dunhillmedical.org.uk/), UK
+3. [MTR Research Funding Scheme](https://www.mtracademy.com/script/en/research/index.aspx), Hong Kong
 
 ## Workshop Organizer
 1. [International Workshop on Reinforcement Learning for Energy Management in Buildings & Cities](https://rlem-workshop.net/), Technical Program Committee, 2021
