@@ -12,10 +12,6 @@ author_profile: true
 
 ## Postdocs
 
-<img src="../images/team/member/Qi.jpg" width="120"> <br/>[ZHOU Qi](https://kishuqizhou.github.io/), join in May 2022<br/>Highest degree so far: Ph.D., University of Tokyo
-
-<img src="../images/team/member/Dan.jpg" width="120"> <br/>[WANG Dan](https://danwang9264.github.io/), join in July 2022<br/>Highest degree so far: Ph.D., Beijing University of Technology
-
 <img src="../images/team/member/Liutao.jpg" width="120"> <br/>[Liutao Chen](https://chenlt326.github.io/), join in September 2023<br/>Highest degree so far: Ph.D., The Hong Kong University of Science and Technology
 
 
@@ -29,7 +25,7 @@ author_profile: true
 
 <img src="../images/team/member/Zinan LIN.jpg" width="120"> <br/>[LIN Zinan](https://zinanlin-oscar.github.io/), join in September 2023<br/>Highest degree so far: Master, The Hong Kong University of Science and Technology
 
-<img src="../images/team/member/Shihong Zhang.jpg" width="120"> <br/>ZHANG Shihong, join in September 2023<br/>Highest degree so far: Master, Wuhan University
+<img src="../images/team/member/Shihong Zhang.jpg" width="120"> <br/>[ZHANG Shihong](https://shihongzhang1999.github.io/), join in September 2023<br/>Highest degree so far: Master, Wuhan University
 
 <img src="../images/team/member/Mingchen Li.png" width="120"> <br/>[LI Mingchen](https://limingchen159.github.io/), join in September 2023<br/>Highest degree so far: Master, Tianjin University
 
@@ -37,10 +33,26 @@ author_profile: true
 
 <img src="../images/team/member/Parastoo.jpg" width="120"> <br/>Parastoo Mohebi, join in September 2023<br/>Highest degree so far: Master, Sharif University of Technology
 
-<img src="../images/team/member/Siqi.jpg" width="120"> <br/>Siqi Li, join in Feb 2024<br/>Highest degree so far: Master, University of Tokyo
+<img src="../images/team/member/Siqi.jpg" width="120"> <br/>LI Siqi, join in Feb 2024<br/>Highest degree so far: Master, University of Tokyo
 
+<img src="../images/team/member/Lunlong.jpg" width="120"> <br/>LI Lunlong, join in Sep 2024<br/>Highest degree so far: Bachelor, Southeast University
+
+<img src="../images/team/member/Shuhao.jpg" width="120"> <br/>LI Shuhao, join in Sep 2024<br/>Highest degree so far: Bachelor, Southeast University
+
+<img src="../images/team/member/Kunhan.jpg" width="120"> <br/>LU Kunhan, join in Sep 2024<br/>Highest degree so far: Master, Tongji University
+
+<img src="../images/team/member/Ziqi.jpg" width="120"> <br/>HU Ziqi, join in Sep 2024<br/>Highest degree so far: Master, Nankai University
+
+<img src="../images/team/member/Donald.jpg" width="120"> <br/>CHENG Donald Ip, join in Sep 2024<br/>Highest degree so far: Master, HKUST
+
+TANG Hadrian Wai To, join in Sep 2024<br/>Highest degree so far: Bachelor, HKUST
 
 ## Alumni
+
+- [ZHOU Qi](https://kishuqizhou.github.io/), Postdoc, 2022-2024. Joining Midea
+
+- [WANG Dan](https://danwang9264.github.io/), Postdoc, 2022-2024. Joining Beijing University of Civil Engineering and Architecture as Associate Professor
+
 - LUO Haomin, MSc student, 2022. Joining University of Cambridge as a Ph.D student
 
 - DING Yirong, MSc student, 2023. Joining Virginia Tech as a Ph.D student
