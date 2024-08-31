@@ -35,7 +35,7 @@ author_profile: true
 
 <img src="../images/team/member/Siqi.jpg" width="120"> <br/>LI Siqi, join in Feb 2024<br/>Highest degree so far: Master, University of Tokyo
 
-<img src="../images/team/member/Lunlong.jpg" width="120"> <br/>LI Lunlong, join in Sep 2024<br/>Highest degree so far: Bachelor, Southeast University
+<img src="../images/team/member/Lunlong.png" width="120"> <br/>LI Lunlong, join in Sep 2024<br/>Highest degree so far: Bachelor, Southeast University
 
 <img src="../images/team/member/Shuhao.jpg" width="120"> <br/>LI Shuhao, join in Sep 2024<br/>Highest degree so far: Bachelor, Southeast University
 

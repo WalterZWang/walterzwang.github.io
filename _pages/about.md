@@ -15,6 +15,7 @@ redirect_from:
 
 Recent news
 ======
+- $\color{#37a55a}{Funding:}$ I was awarded the Innovation and Technology Fund, as the PI, working on *Semantic AI empowered fault detection and control optimization for HVAC system of large-scale commercial buildings* (Sep., 2024).
 - $\color{#37a55a}{Funding:}$ I was awarded the [2024 China Computer Federation (CCF) - Tencent Open Fund](https://mp.weixin.qq.com/s/wnXUKGaYNNTtAnZd3-lHlQ), as the PI, working on *Predictive maintanence for data center cooling plant* (July, 2024).
 - $\color{#37a55a}{Funding:}$ Our team is collaborating with [Shenzhen Ridge](https://www.szridge.com/#/) to develop building defect detection solutions using drone, infrared image and computer vision (May, 2024).
 - $\color{#0b5394}{Award:}$ Two papers on [city-scale load prediction](http://walterzwang.github.io/files/award/highly cited predicting city.pdf) and [energy flexibility](http://walterzwang.github.io/files/award/highly cited flexibility.pdf) published with Advances in Applied Energy have been awarded as the highly cited paper (Mar, 2024).
