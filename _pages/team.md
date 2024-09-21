@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ## Activities
-<img src="../images/team/HighJunkPeak2023.jpg" width="600"> <br/>Group Chung Yeung Festival Hiking to High Junk Peak on 21th Oct., 2023
+<img src="../images/team/Golf2024.png" width="1500"> <br/>Golf and group dinner at The Jockey Club Kau Sai Chau Public Golf Course on 21st Sep., 2024
+<img src="../images/team/HighJunkPeak2023.jpg" width="600"> <br/>Group Chung Yeung Festival Hiking to High Junk Peak on 21st Oct., 2023
 <img src="../images/team/Lamma2022.jpg" width="600"> <br/>Year end group trip to Lamma Island on 20th Dec., 2022
 
 
@@ -45,7 +46,7 @@ author_profile: true
 
 <img src="../images/team/member/Donald.jpg" width="120"> <br/>CHENG Donald Ip, join in Sep 2024<br/>Highest degree so far: Master, HKUST
 
-TANG Hadrian Wai To, join in Sep 2024<br/>Highest degree so far: Bachelor, HKUST
+<img src="../images/team/member/Hadrian.jpeg" width="120"> <br/>TANG Hadrian Wai To, join in Sep 2024<br/>Highest degree so far: Bachelor, HKUST
 
 ## Alumni
 
