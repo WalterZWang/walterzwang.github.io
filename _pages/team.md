@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Activities
-<img src="../images/team/Golf2024.png" width="1500"> <br/>Golf and group dinner at The Jockey Club Kau Sai Chau Public Golf Course on 21st Sep., 2024
+<img src="../images/team/Golf2024.jpg" width="1200"> <br/>Golf and group dinner at The Jockey Club Kau Sai Chau Public Golf Course on 21st Sep., 2024
 <img src="../images/team/HighJunkPeak2023.jpg" width="600"> <br/>Group Chung Yeung Festival Hiking to High Junk Peak on 21st Oct., 2023
 <img src="../images/team/Lamma2022.jpg" width="600"> <br/>Year end group trip to Lamma Island on 20th Dec., 2022
 
