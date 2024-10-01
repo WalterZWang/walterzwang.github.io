@@ -6,14 +6,16 @@ author_profile: true
 ---
 
 ## Activities
-<img src="../images/team/Golf2024.jpg" width="1200"> <br/>Golf and group dinner at The Jockey Club Kau Sai Chau Public Golf Course on 21st Sep., 2024<br/>
-<img src="../images/team/HighJunkPeak2023.jpg" width="600"> <br/>Group Chung Yeung Festival Hiking to High Junk Peak on 21st Oct., 2023<br/>
-<img src="../images/team/Lamma2022.jpg" width="600"> <br/>Year end group trip to Lamma Island on 20th Dec., 2022<br/>
+<img src="../images/team/Golf2024.jpg" width="800"> <br/>Golf and group dinner at The Jockey Club Kau Sai Chau Public Golf Course on 21st Sep., 2024<br/>
+
+<img src="../images/team/HighJunkPeak2023.jpg" width="500"> <br/>Group Chung Yeung Festival Hiking to High Junk Peak on 21st Oct., 2023<br/>
+
+<img src="../images/team/Lamma2022.jpg" width="500"> <br/>Year end group trip to Lamma Island on 20th Dec., 2022<br/>
 
 
 ## Postdocs
 
-<img src="../images/team/member/Liutao.jpg" width="120"> <br/>[Liutao Chen](https://chenlt326.github.io/), join in September 2023<br/>Highest degree so far: Ph.D., The Hong Kong University of Science and Technology
+<img src="../images/team/member/Liutao.jpg" width="120"> [Chen Liutao](https://chenlt326.github.io/), join in September 2023 Highest degree so far: Ph.D., The Hong Kong University of Science and Technology
 
 
 ## Ph.D. & M.Phil.
