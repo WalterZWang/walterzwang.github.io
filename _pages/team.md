@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ## Activities
+<img src="../images/team/BBQ2024.jpg" width="800"> <br/>
+**Barbecue** at HKUST campus on 16th Nov., 2024<br/>
+
 <img src="../images/team/Golf2024.jpg" width="800"> <br/>
 **Golf and group dinner** at The Jockey Club Kau Sai Chau Public Golf Course on 21st Sep., 2024<br/>
 
@@ -81,18 +84,20 @@ Highest degree so far: Bachelor, HKUST
 
 - JIANG Zhan, MSc student, 2023. Joining Stevens Institute of Technology as a Ph.D student
 
-- ZHANG Daze, MSc student, 2023. Joining [P&T Group](https://web.p-t-group.com/en/) as buildng energy consultant
+- ZHAO Chenkai, MSc student, 2023. Joining Huawei
 
-- HAN Runze, MSc student, 2023. Joining 哈尔滨电气国际工程责任有限公司 as civil and construction engineer
+- ZHANG Daze, MSc student, 2023. Joining [P&T Group](https://web.p-t-group.com/en/)
 
-- XU Lingming, MSc student, 2023. Joinging Alibaba Cloud as a product manager
+- HAN Runze, MSc student, 2023. Joining 哈尔滨电气国际工程责任有限公司
 
-- FU Tianyu, MSc student, 2023. Joinging Shanghai Metro Group as an engineer
+- XU Lingming, MSc student, 2023. Joinging Alibaba Cloud
+
+- FU Tianyu, MSc student, 2023. Joinging Shanghai Metro Group
 
 - QU Yao, MSc student, 2023. Joinging HKUST as a Ph.D student
 
-- SO Siu Kuen Ella, MSc student, 2023. Joinging Arup as a consultant
+- SO Siu Kuen Ella, MSc student, 2023. Joinging Arup
 
-- ZHOU Ya, MSc student, 2023. Joinging Meinhardt (Hong Kong) Limited as a consultant
+- ZHOU Ya, MSc student, 2023. Joinging Meinhardt (Hong Kong) Limited
 
-- WANG Ce, MSc student, 2023. Joinging Tianhua as a consultant
+- WANG Ce, MSc student, 2023. Joinging Tianhua
