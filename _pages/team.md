@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Activities
-<img src="../images/team/BBQ2024.jpg" width="800"> <br/>
+<img src="../images/team/BBQ2024.jpg" width="600"> <br/>
 **Barbecue** at HKUST campus on 16th Nov., 2024<br/>
 
 <img src="../images/team/Golf2024.jpg" width="800"> <br/>
