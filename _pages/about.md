@@ -15,7 +15,7 @@ redirect_from:
 
 Recent news
 ======
-- $\color{#5c1d9f}{Career:}$ I was awarded the HKUST 2024 Faulty Recognition Award (Dec, 2024).
+- $\color{#5c1d9f}{Career:}$ I was awarded the HKUST 2024 Faulty Recognition Award (Dec, 2024).<br/><img src='/images/USTFacultyRecognition2024.png' width='800'>
 - $\color{#5c1d9f}{Career:}$ I accept the invitation to serve as the Assistant Editor for [Advances in Applied Energy](https://www.sciencedirect.com/journal/advances-in-applied-energy/about/editorial-board) (Oct, 2024).
 - $\color{#5c1d9f}{Career:}$ I was named as the [World’s Top 2% Scientists](https://mp.weixin.qq.com/s/GBeXIMKf6DEaL_Kl-LwTZQ) by Stanford University & Elsevier for the fourth consecutive year since 2021 (Sep, 2024).
 - $\color{#37a55a}{Funding:}$ I was awarded the Innovation and Technology Fund, as the PI, working on *Semantic AI empowered fault detection and control optimization for HVAC system of large-scale commercial buildings* (Sep, 2024).
