@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ## Activities
+<img src="../images/team/BoatTrip2025.jpg" width="800"> <br/>
+**Yacht trip to the Victoria Harbour** on 24 May 2025<br/>
+
 <img src="../images/team/BBQ2024.jpg" width="600"> <br/>
 **Barbecue** at HKUST campus on 16 Nov 2024<br/>
 
@@ -109,3 +112,5 @@ Highest degree so far: Bachelor, Xi'an Jiaotong University
 - ZHOU Ya, MSc, 2023. Joinging Meinhardt (Hong Kong) Limited
 
 - WANG Ce, MSc, 2023. Joinging Midea Group
+
+- TONG Xinzhou, MSc, 2024. Joinging Zhejiang University as an executive counsellor
