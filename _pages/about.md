@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-- I am an Assistant Professor at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/home).
+- I am an Associate Professor at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/home).
 - **PhD & Postdoc Opening**: I am looking for MPhil/PhD students (full scholarship) and Postdocs to work on energy system modeling and optimization for vehicles, buildings, and cities. Students in building science, mechanical engineering, civil engineering, automation, applied mathematics, or related majors with proficient coding skills are welcome to apply. Please feel free to contact me with CV (and/or transcripts, sample publications) attached if you are interested. For PhD application, please check the [HKUST Graduate School](https://pg.ust.hk/prospective-students/home).
 - Prior to joining HKUST, I was a Project Scientist in [Building Technology & Urban Systems Division](https://buildings.lbl.gov/) at Lawrence Berkeley National Laboratory from 2018 to 2021. I received my Bachelor and Ph.D. at Tsinghua University, supervised by [Prof. Yingxin Zhu](http://www.arch.tsinghua.edu.cn/info/Building%20Science%20and%20Technology/1825) and [Prof. Borong Lin](http://www.arch.tsinghua.edu.cn/info/Building%20Science%20and%20Technology/1804); and my M.Phil degree in [Department of Engineering](http://www.eng.cam.ac.uk/) at University of Cambridge in 2014.
 - [Curriculum Vitae](http://walterzwang.github.io/cv)
 
 Recent news
 ======
+- $\color{#5c1d9f}{Career:}$ I was promoted to Associate Professor at HKUST (July, 2025).
 - $\color{#5c1d9f}{Career:}$ I was appointed as the [Associate Director of HKUST Smart City Institute](https://gsc.hkust.edu.hk/executive-committee) (May, 2025).
 - $\color{#5c1d9f}{Career:}$ I was awarded the HKUST 2024 Faculty Recognition Award (Dec, 2024).<br/><img src='/images/USTFacultyRecognition2024.png' width='800'>
 - $\color{#5c1d9f}{Career:}$ I accept the invitation to serve as the Assistant Editor for [Advances in Applied Energy](https://www.sciencedirect.com/journal/advances-in-applied-energy/about/editorial-board) (Oct, 2024).
