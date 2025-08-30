@@ -27,17 +27,10 @@ author_profile: true
 <img src="../images/team/member/Liutao.jpg" width="90"> [CHEN Liutao](https://chenlt326.github.io/), since Sep 23<br/>
 Highest degree so far: Ph.D., The Hong Kong University of Science and Technology
 
+<img src="../images/team/member/Si.jpg" width="90"> WU Si, since Aug 25<br/>
+Highest degree so far: Ph.D., The Hong Kong University of Science and Technology
 
 ## Ph.D. & M.Phil.
-
-<img src="../images/team/member/Zeyu.jpg" width="90"> [DUAN Zeyu](https://zyduan-neptune.github.io/ZyDuan.github.io/), since Sep 22<br/>
-Highest degree so far: Master, Tongji University
-
-<img src="../images/team/member/Wanfu.jpg" width="90"> ZHENG Wanfu, since Sep 22<br/>
-Highest degree so far: Master, KTH Royal Institute of Technology
-
-<img src="../images/team/member/Si.jpg" width="90"> WU Si, since Sep 22<br/>
-Highest degree so far: Master, Shanghai Jiao Tong University
 
 <img src="../images/team/member/Shihong Zhang.jpg" width="90"> [ZHANG Shihong](https://shihongzhang1999.github.io/), since Sep 23<br/>
 Highest degree so far: Master, Wuhan University
@@ -72,7 +65,7 @@ Highest degree so far: Master, HKUST
 <img src="../images/team/member/Hadrian.jpeg" width="90"> TANG Hadrian, since Sep 24<br/>
 Highest degree so far: Bachelor, HKUST
 
-<img src="../images/team/member/Yike.jpg" width="90"> HU Yike, since Feb 25<br/>
+<img src="../images/team/member/Yike.jpg" width="90"> HU Yike, HKPFS Awardee, since Feb 25<br/>
 Highest degree so far: Master, Tianjin University
 
 <img src="../images/team/member/Jiatao.jpg" width="90"> LIU Jiatao, since Feb 25<br/>
@@ -81,6 +74,30 @@ Highest degree so far: Master, Tianjin University
 <img src="../images/team/member/Mengqi.png" width="90"> JIANG Mengqi, since Feb 25<br/>
 Highest degree so far: Bachelor, Xi'an Jiaotong University
 
+<img src="../images/team/member/Yunqin.jpg" width="90"> LIU Yunqin, since Sep 25<br/>
+Highest degree so far: Master, Beihang University
+
+<img src="../images/team/member/Zhineng.png" width="90"> JIN Zhineng, since Sep 25<br/>
+Highest degree so far: Master, Sichuan University
+
+<img src="../images/team/member/Qiqi.jpg" width="90"> HUANG Qiqi, since Sep 25<br/>
+Highest degree so far: Master, Columbia University
+
+<img src="../images/team/member/Xinyu.jpg" width="90"> WANG Xinyu, HKPFS Awardee, since Sep 25<br/>
+Highest degree so far: Bachelor, Tsinghua University 
+
+<img src="../images/team/member/Yanjie.jpg" width="90"> LI Yanjie, since Sep 25<br/>
+Highest degree so far: Bachelor, Zhejiang University 
+
+<img src="../images/team/member/Shuangshuang.jpg" width="90"> NI Shuangshuang, since Sep 25<br/>
+Highest degree so far: Bachelor, Zhejiang University 
+
+<img src="../images/team/member/Jinxi.jpg" width="90"> LIN Jinxi, since Sep 25<br/>
+Highest degree so far: Bachelor, Sun Yat-sen University
+
+<img src="../images/team/member/Huayu.jpg" width="90"> JIANG Huayu, since Sep 25<br/>
+Highest degree so far: Bachelor, East China University of Science and Technology
+
 ## Alumni
 
 - [ZHOU Qi](https://kishuqizhou.github.io/), Postdoc, 2022-2024. Joining Midea
@@ -88,6 +105,10 @@ Highest degree so far: Bachelor, Xi'an Jiaotong University
 - [WANG Dan](https://danwang9264.github.io/), Postdoc, 2022-2024. Joining Beijing University of Civil Engineering and Architecture as Associate Professor
 
 - [LIN Zinan](https://zinanlin-oscar.github.io/), MSc, 2022-2023, & MPhil, 2023-2024. Joining University of Southern Denmark with Marie Sklodowska-Curie PhD Scholarship
+
+- [DUAN Zeyu](https://zyduan-neptune.github.io/ZyDuan.github.io/), PhD, 2022-2025. Joining Hong Kong Space Robotics and Energy Center as a Research Scientist
+
+- ZHENG Wanfu, PhD, 2022-2025. Joining Huawei as a Engineer
 
 - LUO Haomin, MSc, 2022. Joining University of Cambridge as a Ph.D student
 
