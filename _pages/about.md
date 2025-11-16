@@ -15,6 +15,7 @@ redirect_from:
 
 Recent news
 ======
+- $\color{#5c1d9f}{Career:}$ I was appointed as a member of Technical Committee on Design and Construction Requirements for Energy Efficiency of Buildings by Buildings Department, Hong Kong SAR Government (Nov., 2025).
 - $\color{#5c1d9f}{Career:}$ I was promoted to Associate Professor at HKUST (July, 2025).
 - $\color{#5c1d9f}{Career:}$ I was appointed as the [Associate Director of HKUST Smart City Institute](https://gsc.hkust.edu.hk/executive-committee) (May, 2025).
 - $\color{#5c1d9f}{Career:}$ I was awarded the HKUST 2024 Faculty Recognition Award (Dec, 2024).<br/><img src='/images/USTFacultyRecognition2024.png' width='800'>
