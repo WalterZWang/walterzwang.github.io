@@ -108,7 +108,7 @@ Highest degree so far: Bachelor, East China University of Science and Technology
 
 - [DUAN Zeyu](https://zyduan-neptune.github.io/ZyDuan.github.io/), PhD, 2022-2025. Joining Hong Kong Space Robotics and Energy Center as a Research Scientist
 
-- ZHENG Wanfu, PhD, 2022-2025. Joining Huawei as a Engineer
+- ZHENG Wanfu, PhD, 2022-2025.
 
 - LUO Haomin, MSc, 2022. Joining University of Cambridge as a Ph.D student
 
