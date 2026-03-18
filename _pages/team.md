@@ -56,7 +56,7 @@ Highest degree so far: Bachelor, Southeast University
 <img src="../images/team/member/Kunhan.jpg" width="90"> LU Kunhan, since Sep 24<br/>
 Highest degree so far: Master, Tongji University
 
-<img src="../images/team/member/Ziqi.jpg" width="90"> HU Ziqi, since Sep 24<br/>
+<img src="../images/team/member/Ziqi.jpg" width="90"> [HU Ziqi](https://huziqi.github.io/), since Sep 24<br/>
 Highest degree so far: Master, Nankai University
 
 <img src="../images/team/member/Donald.jpg" width="90"> CHENG Donald, since Sep 24<br/>
@@ -97,6 +97,12 @@ Highest degree so far: Bachelor, Sun Yat-sen University
 
 <img src="../images/team/member/Huayu.jpg" width="90"> JIANG Huayu, since Sep 25<br/>
 Highest degree so far: Bachelor, East China University of Science and Technology
+
+<img src="../images/team/member/Qinhui.jpg" width="90"> LU Qinhui, since Feb 26<br/>
+Highest degree so far: Master, Southeast University 
+
+<img src="../images/team/member/Sobhan.jpg" width="90"> SAADATNASAB Sobhan, since Feb 26<br/>
+Highest degree so far: Bachelor, Sharif University of Technology
 
 ## Alumni
 
