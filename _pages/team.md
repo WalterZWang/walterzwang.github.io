@@ -23,10 +23,6 @@ author_profile: true
 
 
 ## Postdocs
-
-<img src="../images/team/member/Liutao.jpg" width="90"> [CHEN Liutao](https://chenlt326.github.io/), since Sep 23<br/>
-Highest degree so far: Ph.D., The Hong Kong University of Science and Technology
-
 <img src="../images/team/member/Si.jpg" width="90"> WU Si, since Aug 25<br/>
 Highest degree so far: Ph.D., The Hong Kong University of Science and Technology
 
@@ -105,6 +101,8 @@ Highest degree so far: Master, Southeast University
 Highest degree so far: Bachelor, Sharif University of Technology
 
 ## Alumni
+
+- [CHEN Liutao](https://chenlt326.github.io/), Postdoc, 2023-2025. Joining University of Washington
 
 - [ZHOU Qi](https://kishuqizhou.github.io/), Postdoc, 2022-2024. Joining Midea
 
