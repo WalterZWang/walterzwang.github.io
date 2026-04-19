@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ## Activities
+<img src="../images/team/HighJunkPeak2026.png" width="800"> <br/>
+**Hiking** to High Junk Peak on 19 Apr 2026<br/>
+
 <img src="../images/team/BoatTrip2025.jpg" width="800"> <br/>
 **Yacht trip to the Victoria Harbour** on 24 May 2025<br/>
 
