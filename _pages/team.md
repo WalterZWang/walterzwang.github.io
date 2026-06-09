@@ -9,7 +9,7 @@ author_profile: true
 <img src="../images/team/HighJunkPeak2026.png" width="800"> <br/>
 **Hiking** to High Junk Peak on 19 Apr 2026<br/>
 
-<img src="../images/team/BoatTrip2025.jpg" width="800"> <br/>
+<img src="../images/team/BoatTrip2025.png" width="800"> <br/>
 **Yacht trip to the Victoria Harbour** on 24 May 2025<br/>
 
 <img src="../images/team/BBQ2024.jpg" width="600"> <br/>
