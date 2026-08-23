@@ -29,19 +29,18 @@ author_profile: true
 <img src="../images/team/member/Si.jpg" width="90"> WU Si, since Aug 25<br/>
 Highest degree so far: Ph.D., The Hong Kong University of Science and Technology
 
+<img src="../images/team/member/Jiteng.png" width="90"> LI Jiteng, since Jul 26<br/>
+Highest degree so far: Ph.D., Dalian University of Science and Technology
+
+<img src="../images/team/member/Mingchen Li.png" width="90"> [LI Mingchen](https://limingchen159.github.io/), since Aug 26<br/>
+Highest degree so far: Ph.D., The Hong Kong University of Science and Technology
+
+<img src="../images/team/member/Shihong Zhang.jpg" width="90"> [ZHANG Shihong](https://shihongzhang1999.github.io/), since Aug 26<br/>
+Highest degree so far: Ph.D., The Hong Kong University of Science and Technology
+
 ## Ph.D. & M.Phil.
-
-<img src="../images/team/member/Shihong Zhang.jpg" width="90"> [ZHANG Shihong](https://shihongzhang1999.github.io/), since Sep 23<br/>
-Highest degree so far: Master, Wuhan University
-
-<img src="../images/team/member/Mingchen Li.png" width="90"> [LI Mingchen](https://limingchen159.github.io/), since Sep 23<br/>
-Highest degree so far: Master, Tianjin University
-
 <img src="../images/team/member/Lige Zhao.jpg" width="90"> ZHAO Lige, since Sep 23<br/>
 Highest degree so far: Bachelor, Tsinghua University
-
-<img src="../images/team/member/Parastoo.jpg" width="90"> Parastoo MOHEBI, since Sep 23<br/>
-Highest degree so far: Master, Sharif University of Technology
 
 <img src="../images/team/member/Siqi.jpg" width="90"> LI Siqi, since Feb 24<br/>
 Highest degree so far: Master, University of Tokyo
@@ -100,22 +99,27 @@ Highest degree so far: Bachelor, East China University of Science and Technology
 <img src="../images/team/member/Qinhui.jpg" width="90"> LU Qinhui, since Feb 26<br/>
 Highest degree so far: Master, Southeast University 
 
-<img src="../images/team/member/Sobhan.jpg" width="90"> SAADATNASAB Sobhan, since Feb 26<br/>
-Highest degree so far: Bachelor, Sharif University of Technology
+<img src="../images/team/member/Ke.jpg" width="90"> SUN Ke, since Sep 26<br/>
+Highest degree so far: Master, Shanghai Jiaotong University
+
+<img src="../images/team/member/Haochen.jpg" width="90"> WANG Haochen, since Sep 26<br/>
+Highest degree so far: Bachelor, Tsinghua University
 
 ## Alumni
 
+- Parastoo MOHEBI, PhD, 2023-2026. Joining The Hong Kong Polytechnic University as a Postdoc Researcher
+
 - [CHEN Liutao](https://chenlt326.github.io/), Postdoc, 2023-2025. Joining University of Washington
+
+- ZHENG Wanfu, PhD, 2022-2025.
+
+- [DUAN Zeyu](https://zyduan-neptune.github.io/ZyDuan.github.io/), PhD, 2022-2025. Joining Hong Kong Space Robotics and Energy Center as a Research Scientist
 
 - [ZHOU Qi](https://kishuqizhou.github.io/), Postdoc, 2022-2024. Joining Midea
 
 - [WANG Dan](https://danwang9264.github.io/), Postdoc, 2022-2024. Joining Beijing University of Civil Engineering and Architecture as Associate Professor
 
 - [LIN Zinan](https://zinanlin-oscar.github.io/), MSc, 2022-2023, & MPhil, 2023-2024. Joining University of Southern Denmark with Marie Sklodowska-Curie PhD Scholarship
-
-- [DUAN Zeyu](https://zyduan-neptune.github.io/ZyDuan.github.io/), PhD, 2022-2025. Joining Hong Kong Space Robotics and Energy Center as a Research Scientist
-
-- ZHENG Wanfu, PhD, 2022-2025.
 
 - LUO Haomin, MSc, 2022. Joining University of Cambridge as a Ph.D student
 
